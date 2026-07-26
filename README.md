@@ -1,6 +1,11 @@
 # Jerusalem Domari Glossing Toolkit
 
-This project provides a set of scripts and dictionaries for automatic morphological segmentation and interlinear glossing of Jerusalem Domari language texts. The workflow is implemented in a Google Colab notebook and organized into five clear steps.
+This project provides a set of scripts and dictionaries for automatic morphological segmentation and interlinear glossing of Jerusalem Domari language texts. The workflow is implemented in a Jupyter Notebook that can also be run in Google Colab and is organized into four steps.
+
+## Usage
+
+1. Place the input text in `input_texts/`.
+2. Open `jerusalem_domari_glossing.ipynb` and run the cells in order.
 
 ---
 
@@ -32,7 +37,7 @@ Example :
 ## Input Format
 
 The input file should consist of unsegmented Jerusalem Domari sentences,  
-each followed by an English translation enclosed in quotation marks (e.g., `'`).  
+each followed by an English translation enclosed in quotation marks (e.g., `'` `"`).  
 Each sentence pair should appear on two consecutive lines, followed by a blank line to separate entries.  
 Lines starting with a quotation mark will be preserved throughout all processing steps.
 
@@ -76,12 +81,11 @@ The script then reads the list of segmented words from `output_texts/processed_w
 and for each word:
 - If a gloss is found, the word and its gloss are written side by side (tab-separated).
 - If no gloss is found, the word is written alone to indicate a missing entry.
-- If the token is a punctuation mark (e.g., !, ?, ,, .), a double asterisk (`**`) is output instead of a gloss. These will be removed in the next step.
 
 Example:
 - `ḍom` → `ḍom	Dom/people`
 
-The glossed output is saved as `output_texts/output_texts_glossed.txt`.
+The glossed output is saved as `output_texts/glossed.txt`.
 
 ---
 
@@ -104,7 +108,6 @@ If a gloss is missing:
 
 After formatting, an additional cleaning step is applied to remove formatting artifacts such as:
 - Extra spaces before punctuation (e.g., `' , '` → `','`)
-- Double asterisks (`**`) for punctuation marks
 - Redundant hyphenation (e.g., `- -` → `-`)
 
 Example:
