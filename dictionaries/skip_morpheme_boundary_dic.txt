@@ -1,0 +1,360 @@
+ama	ama
+dōm	dōm
+yahōd	yahōd
+baʕdēn	baʕdēn
+baʕad	baʕad
+šar	š- -ar
+šadi	š- -ad-i
+šami	š- -am-i
+hawīye	hawīye
+bas	bas
+aḥsan	aḥsan
+televizōn	televizōn
+hindar	hindar
+ne	ne
+bard -ēk	bardēk
+wiyarma	wiyar -ma
+džēš	džēš
+ṭayyār	ṭayyār
+ṭayyāre	ṭayyāre
+yamma	yamma
+ʕomrom	ʕomr -om
+bānyas	bāny -as
+bàrdēk	bàrd -ēk
+hàdi	hàdi
+kur	kur
+yikàki	yikàk -i
+dī	dī
+ʕamma	ʕamma
+ašti	ašti
+di	di
+bare	bar -e
+mīndēsan	mīndē-san
+itme	itme
+amiin	amiin
+ikak	ikak
+g- -ar-a	ga- -r-a
+sabaḥtan	sabaḥtan
+sabàḥtan	sabàḥtan
+ihi	ihi
+aha	aha
+ehe	ehe
+oho	oho
+uhu	uhu
+la	la
+mi	mi
+nimir	nimir
+ḥašīšī	ḥašīšī
+hnon	hnon
+ḥasan	ḥasan
+hnēna	hnēna
+hnona	hnona
+illi	illi
+šahar	šahar
+šahrēn	šahrēn
+ʕidde	ʕidde
+hēka	hēka
+ṣāra	ṣāra
+nēn	nēn
+lbnānama	lbnān -a-ma
+sūrīyēma	sūrīyē -ma
+qarandiyēma	qarandiyē -ma
+kāni	kāni
+tamāniya	tamāniya
+bardēk	bard- -ēk
+yaʕni	yaʕni
+tanaki	tanak -i
+wala	wala
+nih	nih
+nh	nh
+ekak	ekak
+džēšas	džēš -as
+sitta	sitta
+nan	nan
+bakra	bakra
+ara	a- -r-a
+kà	kà
+pàndžī	pàndžī
+potrēs	potr -ē-s
+ḥàsan	ḥàsan
+nī	nī
+ni	ni
+li	li
+ari	a- -r-i
+ʕasfūri	ʕasfūr -i
+ʕàsfūrik	ʕàsfūr -ik
+pīrēk	pī- -r-ēk
+asta	ast- -a
+ikaki	ikak -i
+ekaki	ekak -i
+nimirke	nimir -ke
+nimirki	nimir -ki
+kateta	kate-ta
+kateti	kate-ti
+pandži	pandži
+putrēs	putr -ē-s
+ġēr	ġēr
+iza	iza
+na	na
+amak	ama -k
+pīra	pī- -r-a
+kāni	kān -i
+yà	yà
+tom	t-om
+tor	t-or
+ta	t-a
+ti	t-i
+tēn	t-ēn
+tēs	t-ēs
+te	t-e
+ɣàir	ɣàir
+iyyāk	iyyā-k	
+iyyāki	iyyā-ki	
+iyyāh	iyyā-h	
+iyyāhā	iyyā-hā
+iyyānā	iyyā-nā
+iyyākum	iyyā-kum	
+iyyāhum	iyyā-hum
+biddi	bidd-i
+biddī	bidd-ī
+biddak	bidd-ak
+biddki	bidd-ki
+biddo	bidd-o
+biddhā	bidd-hā
+biddnā	bidd-nā
+biddkum	bidd-kum
+biddhum	bidd-hum
+asta	ast -a
+yà	yà
+hà	hà
+džà	džà
+hasan	hasan
+zayy	zayy
+qēra	qē- -r-a
+ʕašan	ʕašan
+qrara	qrar -a
+ʕaṣfuri	ʕaṣfur -i
+ʕaṣfur	ʕaṣfur
+ʕaṣfura	ʕaṣfur -a
+ʕasfur	ʕasfur
+qumna	qumna
+agir	agir
+nhe’	nhe’
+nihe'	nihe'
+nasrom	nas- -r-om
+nasror	nas- -r-or
+nasra	nas- -r-a
+nasri	nas- -r-i
+nasrēn	nas- -r-ēn
+nasrēs	nas- -r-ēs
+nasre	nas- -r-e
+nasromi	nas- -r-om-i
+nasrori	nas- -r-or-i
+nasrēk	nas- -r-ēk
+nasrik	nas- -r-ik
+nasrēni	nas- -r-ēn-i
+nasrēsi	nas- -r-ēs-i
+nasrēdi	nas- -r-ēd-i
+nasroma	nas- -r-om-a
+nasrora	nas- -r-or-a
+nasrēya	nas- -r-ēy-a
+nasrīya	nas- -r-īy-a
+nasrēna	nas- -r-ēn-a
+nasrēsa	nas- -r-ēs-a
+nasrēda	nas- -r-ēd-a
+rasrom	ras- -r-om
+rasror	ras- -r-or
+rasra	ras- -r-a
+rasri	ras- -r-i
+rasrēn	ras- -r-ēn
+rasrēs	ras- -r-ēs
+rasre	ras- -r-e
+rasromi	ras- -r-om-i
+rasrori	ras- -r-or-i
+rasrēk	ras- -r-ēk
+rasrik	ras- -r-ik
+rasrēni	ras- -r-ēn-i
+rasrēsi	ras- -r-ēs-i
+rasrēdi	ras- -r-ēd-i
+rasroma	ras- -r-om-a
+rasrora	ras- -r-or-a
+rasrēya	ras- -r-ēy-a
+rasrīya	ras- -r-īy-a
+rasrēna	ras- -r-ēn-a
+rasrēsa	ras- -r-ēs-a
+rasrēda	ras- -r-ēd-a
+mandom	man- -d-om
+mandor	man- -d-or
+manda	man- -d-a
+mandi	man- -d-i
+mandēn	man- -d-ēn
+mandēs	man- -d-ēs
+mande	man- -d-e
+mandomi	man- -d-om-i
+mandori	man- -d-or-i
+mandēk	man- -d-ēk
+mandik	man- -d-ik
+mandēni	man- -d-ēn-i
+mandēsi	man- -d-ēs-i
+mandēdi	man- -d-ēd-i
+mandoma	man- -d-om-a
+mandora	man- -d-or-a
+mandēya	man- -d-ēy-a
+mandīya	man- -d-īy-a
+mandēna	man- -d-ēn-a
+mandēsa	man- -d-ēs-a
+mandēda	man- -d-ēd-a
+mandomir	man- -d-om-ir
+mandomis	man- -d-om-is
+mandorim	man- -d-or-im
+mandoris	man- -d-or-is
+mandosim	man- -d-os-im
+mandosir	man- -d-os-ir
+mandosis	man- -d-os-is
+mandēnim	man- -d-ēn-im
+mandēnir	man- -d-ēn-ir
+mandēnis	man- -d-ēn-is
+mandēsim	man- -d-ēs-im
+mandēsir	man- -d-ēs-ir
+mandēsis	man- -d-ēs-is
+mandēdim	man- -d-ēd-im
+mandēdir	man- -d-ēd-ir
+mandēdis	man- -d-ēd-is
+mandomman	man- -d-om-man
+mandomran	man- -d-om-ran
+mandomsan	man- -d-om-san
+mandorman	man- -d-or-man
+mandorran	man- -d-or-ran
+mandorsan	man- -d-or-san
+mandosman	man- -d-os-man
+mandosran	man- -d-os-ran
+mandossan	man- -d-os-san
+mandēnman	man- -d-ēn-man
+mandēnran	man- -d-ēn-ran
+mandēnsan	man- -d-ēn-san
+mandēsman	man- -d-ēs-man
+mandēsran	man- -d-ēs-ran
+mandēssan	man- -d-ēs-san
+mandedman	man- -d-ed-man
+mandedran	man- -d-ed-ran
+mandedsan	man- -d-ed-san
+mandomri	man- -d-om-r-i
+mandomsi	man- -d-om-s-i
+mandormi	man- -d-or-m-i
+mandorsi	man- -d-or-s-i
+mandosmi	man- -d-os-m-i
+mandosri	man- -d-os-r-i
+mandossi	man- -d-os-s-i
+mandēnmi	man- -d-ēn-m-i
+mandēnri	man- -d-ēn-r-i
+mandēnsi	man- -d-ēn-s-i
+mandēsmi	man- -d-ēs-m-i
+mandēsri	man- -d-ēs-r-i
+mandēssi	man- -d-ēs-s-i
+mandedmi	man- -d-ed-m-i
+mandedri	man- -d-ed-r-i
+mandedsi	man- -d-ed-s-i
+mandommani	man- -d-om-man-i
+mandomrani	man- -d-om-ran-i
+mandomsani	man- -d-om-san-i
+mandormani	man- -d-or-man-i
+mandorrani	man- -d-or-ran-i
+mandorsani	man- -d-or-san-i
+mandosmani	man- -d-os-man-i
+mandosrani	man- -d-os-ran-i
+mandossani	man- -d-os-san-i
+mandēnmani	man- -d-ēn-man-i
+mandēnrani	man- -d-ēn-ran-i
+mandēnsani	man- -d-ēn-san-i
+mandēsmani	man- -d-ēs-man-i
+mandēsrani	man- -d-ēs-ran-i
+mandēssani	man- -d-ēs-san-i
+mandedmani	man- -d-ed-man-i
+mandedrani	man- -d-ed-ran-i
+mandedsani	man- -d-ed-san-i
+mandomra	man- -d-om-r-a
+mandomsa	man- -d-om-s-a
+mandorma	man- -d-or-m-a
+mandorsa	man- -d-or-s-a
+mandosma	man- -d-os-m-a
+mandosra	man- -d-os-r-a
+mandossa	man- -d-os-s-a
+mandēnma	man- -d-ēn-m-a
+mandēnra	man- -d-ēn-r-a
+mandēnsa	man- -d-ēn-s-a
+mandēsma	man- -d-ēs-m-a
+mandēsra	man- -d-ēs-r-a
+mandēssa	man- -d-ēs-s-a
+mandedma	man- -d-ed-m-a
+mandedra	man- -d-ed-r-a
+mandedsa	man- -d-ed-s-a
+mandommana	man- -d-om-man-a
+mandomrana	man- -d-om-ran-a
+mandomsana	man- -d-om-san-a
+mandormana	man- -d-or-man-a
+mandorrana	man- -d-or-ran-a
+mandorsana	man- -d-or-san-a
+mandosmana	man- -d-os-man-a
+mandosrana	man- -d-os-ran-a
+mandossana	man- -d-os-san-a
+mandēnmana	man- -d-ēn-man-a
+mandēnrana	man- -d-ēn-ran-a
+mandēnsana	man- -d-ēn-san-a
+mandēsmana	man- -d-ēs-man-a
+mandēsrana	man- -d-ēs-ran-a
+mandēssana	man- -d-ēs-san-a
+mandedmana	man- -d-ed-man-a
+mandedrana	man- -d-ed-ran-a
+mandedsana	man- -d-ed-san-a
+bàʕdēn	bàʕdēn
+hnōna	hnōna
+ilmuhimm	il-muhimm
+abomke	ab-om-ke
+aborke	ab-or-ke
+aboske	ab-os-ke
+abuske	ab-us-ke
+abmanke	ab-man-ke
+abranke	ab-ran-ke
+absanke	ab-san-ke
+abŭmke	ab-ŭm-ke
+abŭrke	ab-ŭr-ke
+abŭske	ab-ŭs-ke
+abŭske	ab-ŭs-ke
+abŭmkara	ab-ŭm-kara
+abŭrkara	ab-ŭr-kara
+abŭskara	ab-ŭs-kara
+abŭskara	ab-ŭs-kara
+abomkara	ab-om-kara
+aborkara	ab-or-kara
+aboskara	ab-os-kara
+abūmkara	ab-ūm-kara
+abūrkara	ab-ūr-kara
+abūskara	ab-ūs-kara
+abōmke	ab-ōm-ke
+abōrke	ab-ōr-ke
+abōske	ab-ōs-ke
+abōmka	ab-ōm-ka
+abōrka	ab-ōr-ka
+abōska	ab-ōs-ka
+abŭmke	ab-ŭm-ke
+abŭrke	ab-ŭr-ke
+abŭske	ab-ŭs-ke
+abŭmka	ab-ŭm-ka
+abŭrka	ab-ŭr-ka
+abŭska	ab-ŭs-ka
+abūmke	ab-ūm-ke
+abūrke	ab-ūr-ke
+abūske	ab-ūs-ke
+abūmkara	ab-ūm-kara
+abūrkara	ab-ūr-kara
+abūskara	ab-ūs-kara
+abūskara	ab-ūs-kara
+abūmka	ab-ūm-ka
+abūrka	ab-ūr-ka
+abūska	ab-ūs-ka
+bēn	bēn
+dža	dža
+gēna	gēna
+bara	bara
+lamma	lamma
+bārōm	bār -ōm
