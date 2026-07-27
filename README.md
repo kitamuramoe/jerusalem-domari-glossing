@@ -116,3 +116,7 @@ Example:
 - "fetch me four good sheep,"
 
 ---
+
+## License
+
+The scripts in this repository are licensed under the MIT License. The linguistic data and sample texts are not covered by this license unless otherwise stated.
