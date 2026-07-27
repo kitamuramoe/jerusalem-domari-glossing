@@ -4050,6 +4050,7 @@ zʕilahr-	be.angry/be.upset-	v	Ar.
 ʕaṣāy	wooden stick	n	Ar.
 ʕašrīn	twenty	num	Ar.
 ʕaṭšān	thirsty	adj	Ar.
+ʕazar	bald	adj	Ar.
 ʕazifk-	play.music-	v	Ar.
 ʕibrānī	Hebrew	n	Ar.
 ʕīd	festival	n	Ar.
