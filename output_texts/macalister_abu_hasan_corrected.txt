@@ -1,0 +1,656 @@
+ast-a yikàk-i ṭàṭ-i
+there.is-REM one- PRED Arab-PRED.SG
+"There was a fallah"
+
+ašte wašī-s dī gōrw-i.
+there.is with-3SG two cow-PRED.SG
+"he had two oxen"
+
+ʕamma dʕr-àr-i bīt-as at-sun-ta.
+PART plough-3SG-PRES earth-OBL.M on-3PL-DAT
+"He was ploughing on them"
+
+št-ird-a min hnōnà gōrw-ak, ṭlif-r-a.
+rise-PFV-3SG.M from there cow-INDEF release-PFV-3SG.M
+"An ox arose from there, and got free"
+
+man-d-ōs-is ṭàṭ, rawàḥ-r-a kuri-is-ta.
+leave-PFV-3SG-3SG Arab go-PFV-3SG.M house-3SG.OBL-DAT
+"The fellah left him, went to his house"
+
+qāl: sabàḥtan laher-d-ōm-ur, yà ŭhŭ gōrū ē der-ya-ma, mar-d-ōm-ur ē čir-y-a-ma.
+PART in.the.morning see-PFV-1SG-2SG PART that cow this place-OBL.F-LOC kill-PFV-1SG-2SG this knife-OBL.F-LOC
+"He said "In the morning if I see thee, oh thou ox, in this place, I will slay thee with this knife.""
+
+gōrū mīn-d-a ḥàl-os, rà-ur-a. làh-erd-a ēgas-as illi kil-d-ēk.
+cow hold-PFV-3SG.M self-3SG see-PFV-3SG.M see-PFV-3SG.M grass-OBL.M REL descend-PFV-PRED.SG
+"The ox betook himself and went. He saw long grass."
+
+wēs-r-a, qà-r-a mindž-īs.
+sit-PFV-3SG.M eat-PFV-3SG.M in-3SG
+"he stayed, ate of it."
+
+a-r-a ab-ūs-kara abū ḥasan.
+come-PFV-3SG.M for-3SG-BEN Abu Hasan
+"There came to him Abu Ḥasan"
+
+mīn-d-a ḥàl-os abū ḥasan, č-ird-a ab-ŭs-kara
+hold-PFV-3SG.M self-3SG Abu Hasan say-PFV-3SG.M for-3SG-BEN
+"Abu Ḥasan betook himself"
+
+č-ird-a ab-ŭs-kara:
+say-PFV-3SG.M for-3SG-BEN
+"he (Abu Ḥasan) said to himː"
+
+hàdi gōrū, wēs-r-ūr erhēnà?
+PART cow sit-PFV-2SG here
+"Why do you stay here?"
+
+ihi deri nimr-as der-ik; sa'a àu-ar-i, fē-r-i, bag-ar-i dlàʕ-ur
+this.F place panther-OBL.M place-PRED.SG hour come-3SG-PRES hit- 3SG-PRES break-3SG-PRES ribs-2SG
+"This is a panther's place, the hour she comes she will strike and break thy ribs"
+
+m-ind-a ḥàl-os u ga-r-a abu ḥasan nimr-as-kara
+die-PFV-3SG.M self-3SG and go-PFV-3SG.M Abu Hasan panther-OBL.M-BEN
+"Abu Ḥasan betook himself and went to the panther."
+
+č-ird-a ab-us-ka: hàdi gōrw-i q-ar-a ḥaštš-ir-ma.
+say-PFV-3SG.M for-3SG-DAT PART cow-PRED.SG eat-3SG-REM grass-2SG.OBL-LOC
+"He said "This ox has eaten in thy grass""
+
+čar-ī-r-a abŭ ḥasan,
+hide-VITR-PFV-3SG.M Abŭ Hasan
+"Abu Ḥasan was hidden"
+
+a-r-a ab-us-ka nimr.
+come-PFV-3SG.M for-3SG-DAT panther
+"the panther came to him."
+
+: kē-ka, gōrū, wēs-r-ūr-i ē rabiʕ-ē-m-à?
+what-DAT cow sit-PFV-2SG-PRES this spring-OBL.F-LOC
+"he said "Why, oh though Ox, dost thou stay in this spring-grass""
+
+sàui-ō-m ḥirt-ke-r-a amà-tà
+master-SG-1SG plough-VTR-PFV-3SG.M me-DAT
+"My master ploughs on me,"
+
+u mūṭlif-h-r-ōm-i min kull-ēki,
+and weary-VITR-PFV-1SG-PRES from everything-PRED.SG
+"and I am weary from hunger"
+
+(u) lah-erd-ōm ihi der-ya. durt q-àm-i mindž-īs
+and see-PFV-1SG this.F place-OBL.F PART eat-1SG-PRES in-3SG
+"I saw this place and wished to eat in it."
+
+
+u hà ama bēn xast-ur-ki-h-r-ōm-i.
+and PART I between hand-2SG-ABL-VITR-PFV-1SG-PRES
+"and I am between thy hands.""
+
+wēs-r-a, man-d-ōs-is gōru des dīs,
+sit-PFV-3SG.M leave-PFV-3SG-3SG ten day
+"He stayed, left the ox ten days"
+
+tillà-ḥ-r-a qàdd dawài-iki.
+grow-PFV-3SG.M as camel-PRED.SG
+"it became as big as a camel"
+
+a-r-a ab-ŭs-kara abū ḥasan;
+come-PFV-3SG.M for-3SG-BEN Abu Hasan
+"Then came to him Abu Ḥasan"
+
+qàl gōrū: kirwi?
+PART cow PART
+"the ox said "what is the matter?""
+
+abu ḥasan qàl,
+Abu Hasan PART
+"Abu Ḥasan said,"
+
+nimr man-d-ōs-r-i ēderi-ē-m-a ta ʕàdel-hōč-i
+panther leave-PFV-3SG-2SG-PRES till fat-VITR.SUBJ-2SG
+"The panther has left thee in this place till thou become fat"
+
+u bàʕdēn
+and then
+"and aferwards"
+
+fē-r-i qaf-is-ma,
+hit-PFV-3SG.F paw-3SG.OBL-LOC
+"she will strike thee with her paw"
+
+ma-r-ēk u q-ar-i.
+die-PFV-PRED.SG and eat-3SG-PRES
+"thou will die and she will eat thee."
+
+ā-r-ōs-ir nimr... luḥra-ker ik-īr ab-us.
+come-PFV-3SG-2SG red-VTR eye-2sg on-3SG
+"If the panther comes to thee, redden thy eye upon her"
+
+u fumn-ē-s qurn-ūr-mà
+and hit-2SG-3SG horn-2SG-LOC
+"and strike her with your horn (to kill her)""
+
+mīn-d-a ḥàl-ō-s abū ḥasan, ga-r-a nimr-kara, qàl
+hold-PFV-3SG.M self-SG-3SG Abu Hasan go-PFV-3SG.M panther-BEN PART
+"Abu Ḥasan betook himself, went to the panther, said"
+
+atū man-d-ōr gōrw-i rabiʕ-ē-ma;
+you.SG leave-PFV-2SG cow-PRED.SG grass-OBL.F-LOC
+"Thou hast left the ox in the spring-grass;"
+
+džà, lah-am galna-ker waš-īs.
+go see-1SG talk-VTR with-3SG
+"go, let me see [thee] speak with him."
+
+qàl: kē-i iḥ-r-a?
+PART what-PRED.SG become-PFV-3SG.M
+"Said she "what has happened?""
+
+abu hasan qàl: dràra-ḥ-r-a gōrū
+Abu Hasan PART fat-VITR-PFV-3SG.M cow
+"Said Abu Ḥasan "The ox has become fat,"
+
+li-lah-erd-ōs-ir ɣàir in mar-ar-ir.
+SUBJ-see-PFV-3SG-2SG except if kill-3SG-2SG
+"so that if he sees you he will want to kill you""
+
+mīn-d-a ḥàl-os nimr, u xul-d-à gōr-à-ta
+hold-PFV-3SG.M self-3SG panther and descend-PFV-3SG.M cow-OBL.F-DAT
+"The panther went down to the ox,"
+
+gōrū ɣaz-k-erd-a qurn-ōs-ma
+cow push-VTR-PFV-3SG.M horn-3SG-LOC
+"the ox thrust his horn (into the ground)"
+
+u fē-r-ōs-is qurn-ōs-ma
+and hit-PFV-3SG-3SG.OBL horn-3SG-LOC
+"and struck him"
+
+u stuhḥ-k-erd-a nimr-os.
+and split-PFV-3SG.M panther-OLB.M
+"and split him into two pieces."
+
+fer-os nimr gēna ẃinn-i stuḥ-ke-rd-ōs-i.
+hit-3SG panther again PART split-VTR-PFV-3SG-PRES
+"The panther struck him also and split him."
+
+m-ind-e ḥàl-ōsan diyēni, m-r-e, gōrū u nimr.
+die-PFV-3PL self-3PL two die-PFV-3PL cow and panther
+"The two betook themselves and died, the ox and the panther."
+
+št-ird-a min hnōna abū ḥasan, ga-r-a qa-r-à diyēni-mma.
+rise/stand-PFV-3SG.M from there Abu Hasan go-PFV-3SG.M eat-PFV-3SG.M two-PRED-LOC
+"Abu Ḥasan arose from there, went to eat the two."
+
+nàdi-k-erd-a bài-is u potr-e-s
+call-PFV-3SG.M wife-3SG.OBL and child-PL-3SG
+"He called his wife and children,"
+
+qa-r-e wašī-s.
+eat-PFV-3PL with-3SG
+"they ate with him."
+
+lamma nī man-d-a diyēn-àn-ki ɣàir xàr-e,
+when PART leave-PFV-3SG.M two-OBL.PL-ABL except bone-3PL
+"[until] there remained nothing of the two but bones."
+
+àbu ḥàsàn
+Abu Hasan
+"abu ḥasan"
+
+nàdi-k-erd-a qàum-ē-s giš. qàrw xàr-an, mīn-d-e ḥàl-ēsan u ga-r-e.
+call-PFV-3SG.M people-PL-3SG all eat bone-OBL.PL hold-PFV-3PL self-3PL and go-PFV-3PL
+"called his people (to eat the bones)"
+
+nàu-r-a abū ḥasan, lah-erd-a fŭrw-ēk
+search-PFV-3SG.M Abu Hasan see-PFV-3SG.M fur-PRED.SG.M/2SG
+"Abu Ḥasan searched, and saw a piece of fur/sheepskin coat"
+
+(u) t-ird-ōs-is pal-ē-s-tà.
+and put-PFV-3SG-3SG shoulder-PL-3SG-DAT
+"and put the coat on his shoulders."
+
+ning-r-a ē mŭɣar-ē-mà
+enter-PFV-3SG.M cave-OBL.F-LOC
+"He entered a cave,"
+
+lah-erd-a bàr-ūs nimr-às-ki mŭɣar-ē-mà.
+see-PFV-3SG.M brother-3SG panther-OBL.M-ABL cave-OBL.F-LOC
+"saw the brother of the panther in the cave."
+
+mīn-d-ōs-is nimr, qàl:
+hold-PFV-3SG-3SG panther PART
+"The panther took him and saidː"
+
+àbu ḥasan, kē-ka mar-d-ōr bàr-ōm?
+Abu Hasan what-DAT kill-PFV-2SG brother-1SG
+""Abu Ḥasan, why hast thou slain my brother?""
+
+ama nī ḥ-r-ōm-i gōrw-i
+I PART become-PFV-1SG-PRES cow-PRED.SG
+""I am not the ox" (said by Abu Ḥasan)"
+
+àtū illi ik-t-ōr fasàdi
+you.SG REL raise-PFV-2SG quarrel
+""It is he who roused the quarrel" (said by Abu Ḥasan)"
+
+lah-erd-a nimr fūrw-ē pal-ē-s-t-ik;
+see-PFV-3SG.M panther fur-OBL.F shoulder-PL-3SG-DAT-PRED.SG
+"The panther saw the sheepskin coat which was on his shoulder."
+
+kàl: àbū ḥasan, ke-r-ēk amà-ka yik-àk miθl àur-ak-i?
+PART Abu Hasan do-PFV-PRED>SG I-DAT one-INDEF like other-INDEF-PRED.SG
+"Abu Ḥasan, Wilt though make for me one like that?""
+
+rūd-r-a abū ḥasan: ker-am-i:
+answer-PFV-3SG.M Abu Hasan do-1SG-PRES
+"Abu Ḥasan answered him "I will make it"
+
+nan amà-ka št-àr bakra gar-d-a,
+bring I-DAT rise-3SG lamb take-PFV-3SG.M
+"fetch me four good sheep,"
+
+mar-ē-san,
+kill-PL-3PL
+"kill them"
+
+ta-ker-am ab-ŭr-kara fūrw-ek.
+SUBJ-do-1SG for-2SG-BEN fur-PRED.SG
+"(so) that I may make for thee a sheepskin coat.""
+
+mīn-d-a ḥàl-ōs nimr, nan-d-a ab-ŭs-karà št-àr bakra.
+hold-PFV-3SG.M self-3SG panther bring-PFV-3SG.M for-3SG-BEN rise-3SG lamb
+"The panther betook himself, brought four sheep to him."
+
+qa r-a màsy-an,
+eat-3SG-REM meat-OBL.PL
+"He ate the flesh"
+
+u kta qàl-an čàl-as-ma
+and throw black-OBL.PL pit-OBL.M-LOC
+"and cast the skins."
+
+čàl-as-m-a
+“into the pit”
+pit-OBL.M-LOC
+
+a-r-a nimr ab-ŭs-kara, kàl: kà fūrwē, abū ḥasan?
+come-PFV-3SG.M panther for-3SG-BEN PART where fur Abu Hasan
+"The panther came to him and said "Where is the coat, Abu Ḥasan?""
+
+qàl: màng-ar-i bakr-ak gēna.
+PART want-3SG-PRES lamb-INDEF again
+"He said " there lacks another sheep""
+
+nan-d-a ab-ŭs-kara nimr bakr-ak.
+bring-PFV-3SG.M for-3SG-BEN panther lamb-INDEF
+"The panther brought him a cheep"
+
+mar-d-os-is, qār-d-os-is àbū ḥasan
+kill-PFV-3SG-3SG eat-PFV-3SG-3SG Abu Hasan
+"Abu Ḥasan killed it,"
+
+( qār-d-os-is )
+eat-PFV-3SG-3SG 
+"ate it"
+
+pàndžī u potr-ē-s,
+he/she and son-PL-3SG
+"he and his children."
+
+u kta qàl-as čàl-as-m-a.
+and throw skin-OBL.M pit-OBL.M-LOC
+"and cast the skin into a pit."
+
+a-r-a ab-ŭs-kara nimr.
+come-PFV-3SG.M for-3SG-BEN panther
+"The panther came to him"
+
+kà fūrwē, abū hasan?
+where fur Abu hasan
+"he said, "where is the coat, Abu Ḥasan?""
+
+qàl: wind-ir ta nan-am-is.
+PART wait-2SG until bring-1SG-3SG
+"He said "stay till I bring it""
+
+nas-r-a abū ḥasan
+escape-PFV-3SG.M Abu Hasan
+"Abu Ḥasan fled"
+
+ras-r-ōs nimr
+arrive-PFV-3SG panther
+"the panther followed him"
+
+mīn-d-a ḥàl-ōs, ga-r-a, ning-ar-i ēmŭɣar-ē-ma.
+hold-PFV-3SG.M self-3SG go-PFV-3SG.M enter-3SG-PRES cave-OBL.F-LOC
+"He betook himself and went, he enters a cave."
+
+mīn-d-ōs-is nimr dhanab-us-ki;
+hold-PFV-3SG-3SG panther tail-3SG-ABL
+"He took him by his tail;"
+
+intà-k-erd-a ḥàl-ōs abū ḥasan,
+pull-VTR-PFV-3SG.M self-3SG Abu Hasan
+"Abu Ḥasan pulled himself (and escaped),"
+
+intà-k-erd-a ḥàl-ō-s abū ḥasan, čn-ī-r-a dhanab-os nimr-as xast-às-ma.
+pull-VTR-PFV-3SG.M self-3SG Abu Hasan cut-VITR-PFV-3SG.M tail-3SG panther-OBL.M hand-OBL.M-LOC
+"his tail was cut in the paw of the panther."
+
+št-ird-a min hnōnà abū ḥasan, man-d-a ʕazar.
+rise-PFV-3SG.M from there Abu Hasan leave-PFV-3SG.M bald
+"Abu Ḥasan rose from there and remained tailless. "
+
+č-ird-a nimr abus-kà, qàl: atū, abu ḥasan ʕazar-ḥ-r-ōr, džan-d-ōm-ur.
+say-PFV-3SG.M panther for-3SG-DAT PART you.SG Abu Hasan bald-become-PFV-2SG know-PFV-1SG-2SG
+"The panther said to him, he said: "Thou art tailless, Abu Ḥasan," "I will know thee.""
+
+ga-r-a min hnōna abū ḥasan,
+go-PFV-3SG.M from there Abu Hasan
+"Abu Ḥasan went from there,"
+
+rawàḥ-r-a nimr.
+go-PFV-3SG.M panther
+"the panther departed."
+
+ga-r-a e karm-as-ka, q-ar-a ʕanab min mnēš-īs.
+go-PFV-3SG.M this vineyard-OBL.M-DAT eat-3SG-REM grapes from inside-3SG
+"Hent to a vineyard, (ate grapes) from it."
+
+( qa-r-à ʕanab )
+eat-PFV-3SG.M * *
+"(ate grapes)"
+
+fē-r-a sōṭ-ak, giš džamʕat-ē-s a-r-e.
+hit-PFV-3SG.M voice-INDEF all people-PL-3SG come-PFV-3PL
+"He gave a shout (and) all of his people came."
+
+qumn-an idr-ak.
+eat-1PL grape-INDEF
+"(he said) "Let us eat grapes""
+
+xl-àur-d-ōs-san e karm-as-ma.
+descend-CAUS-PFV-3SG-3PL this vineyard-OBL.M-LOC
+"he made them descend into the vineyard."
+
+qàl: man-im-r-aneʔ qumn-as ɣàir ta mban-im pindžik-ē-ran.
+PART stay-1SG-2SG-NEG eat-2SG except till bind-1SG tail-PL-2PL
+"he said "I will not suffer you to eat unless I bind your tails""
+
+ban-d-ōs-san abū ḥasan
+tie-PFV-3SG-3PL Abu Hasan
+"Abu Ḥasan bound them"
+
+u a-r-a naṭr-as-kara.
+and come-PFV-3SG.M watch-OBL.M-BEN
+"and came the watchman."
+
+sawuṭ-kē-r-d-à kan-is-ma.
+voice-VTR-PFV-3SG.M ear-3SG.OBL-LOC
+"He shouted in his ear"
+
+št-ird-a min hnōna ŭhŭ naṭūr fē-r-ōs-san dfàng-ma winni
+rise-PFV-3SG.M from there that watchman hit-PFV-3SG-3PL gun-LOC PART
+"The watchman rose from there, shot them with a gun"
+
+giš dhanab-ē-san kàn-ī-r-ēnd-i
+all tail-PL-3PL tear-VITR-PFV-3PL-PRES
+"and all their tails were plucked out."
+
+mīn-d-a ḥàl-ōs abū ḥasan, ga-r-a nimr-as-ka;
+hold-PFV-3SG.M self-3SG Abu Hasan go-PFV-3SG.M panther-OBL.M-DAT
+"Abu Ḥasan betook himself and went to the panther."
+
+qàl: mīn-d-ōm-ir, abū ḥasan.
+PART hold-PFV-1SG-2SG Abu Hasan
+"He said "I will seize thee, Abu Ḥasan.""
+
+qàl: kà k-r-ēk mindžīm, yà zelam-i?
+PART what do-PFV-PRED.SG PART person-PRED.SG
+"He said "Fellow, what dost thou with me?""
+
+qàl: atu par-d-ōr bak-ran u qā-r-ōs-san,
+PART you.SG take-PFV-2SG sheep-OBL.PL -2PL and eat-PFV-3SG-3PL
+"He said "thou has taken the sheep and eaten them"
+
+nī ke-rd-ōr fūrwē ama-kara.
+NEG do-PFV-2SG fur I-BEN
+"and dist not make the sheepskin coat for me""
+
+qàl: ama nī-h-r-ōm-i.
+PART I NEG-become-PFV-1SG-PRES
+"he said "It is not I""
+
+qàl: atū-h-r-ūr-i.
+PART you.SG-become-PFV-2SG-PRES
+"He said "It is thee""
+
+qàl: kē-i džan-àur-d-ōs-ir inn-i ama h-r-ōm-i?
+PART what-PRED.SG know-CAUS-PFV-3SG-2SG COMP I-become-PFV-1SG-PRES
+"He said "Who told thee that it was I?""
+
+qàl: ama č-ind-ōm dhanab-ūr.
+PART I cut-PFV-1SG tail-2SG
+"he said "I cut off thy tail""
+
+qàl: giš džamaʕt-ē-m qàrib-e-m ʕasarn-e.
+PART all people-OBL.F-1SG relative-PL-1SG *
+"He said "All my people, all my near relations, are tailless""
+
+qàl: lah-amn-i: nàdi-ker-ē-san.
+PART see-1SG-PRES call-VTR-2SG-3PL
+"He said "Let me see, call them""
+
+fē-r-e at-sàn-ta sōṭ-ak abū ḥasan,
+hit-PFV-3PL at-3PL-DAT voice-INDEF Abu Hasan
+"Abu Ḥasan shouted to them,"
+
+giš a-r-e; lah-erd-ōs-san nimr giš ʕazarn-e.
+all come-PFV-3PL see-PFV-3SG-3PL panther all *-PL
+"and they all came, the panther saw that they were all tailless."
+
+nī dž-and-a kōn-ik illi q-ar-a bakr-an.
+NEG go-3PL-3SG.M who-PRED.SG REL eat-3SG-REM sheep-OBL.PL
+"he did not know which was the one who had eaten the sheep"
+
+mīn-d-a ḥàl-ōs abī ḥàsan, ʔàzim-k-erd-a nimr-as.
+hold-PFV-3SG.M self-3SG Abu Hasan invite-VTR-PFV-3SG.M panther-OBL.M
+"Abu Ḥasan betook himself and invited the panther"
+
+tīr-d-a ḥassīr-i čàl-as-ka pya-ta abu ḥasan
+put-PFV-3SG.M carpet-PRED.SG well-OBL.M.DAT water-DAT Abu Hasan
+"Abu Ḥasan put a carpet on the mouth of the well"
+
+wēšl-àur-d-a nimr-as at-us-ta,
+sit-CAUS-PFV-3SG.M panther-OBL.M on-3SG-DAT
+"and caused the panther to sit on it"
+
+winni ku-i-r-ek čàl-as mandž-is-ma.
+PART fall-VITR-PFV-PRED.SG well-OBL.M in-3SG-LOC
+"and hefell into the middle of the well."
+
+a-r-a min hnōnà.
+come-PFV-3SG.M from there
+"The panther came from there"
+
+šib-r-a nimr min čàl-as-ki winni
+leap-PFV-3SG.M panther from well-OBL.M-ABL PART
+"leapt from the well,"
+
+mīn-d-ēk abu ḥasan-as u tīr-d-ōs-is čàl-as-ma.
+hold-PFV-PRED.SG abu hasan-OBL.M and put-PFV-3SG-3SG well-OBL.M-LOC
+"siezed Abu Ḥasan and put him in the well."
+
+ḥ-r-e diyēn-i čàl-as-m-a.
+become-PFV-3PL two-PRED.SG well-OBL.M-LOC
+"The two were in the well."
+
+mīn-d-a ḥàl-ōs nimr, dī dīs ibkarwài-àn-ki m-r-à.
+hold-PFV-3SG.M self-3SG penther two day hunger-OBL.PL-ABL die-PFV-3SG.M
+"In two days the panther died of hunger"
+
+qà-r-a abū ḥasan nimr-as čàl-as-m-a.
+eat-PFV-3SG.M Abu Hasan panther-OBL.M well-OBL.M-LOC
+"Abu Ḥasan ate the panther in the well."
+
+ašte kadždži-ēni ā-r-end-i ta kun-and čmary-an.
+there.is non.Dom.woman-PRED.PL-PRED come-PFV-3PL-PRES till sell-3PL chicken-OBL.PL
+"There were women going to sell chickens."
+
+bard-ēni slàl-e.
+full-PRED.PL basket-PL
+"Their baskets were full"
+
+lah-erd-e e čal-as.
+see-PFV-3PL this well-OBL.M
+"They saw that well."
+
+ɣēb-r-i at-sàn-ta gam.
+set-PFV-3SG.F on-3PL-DAT sun
+"The sun set on them."
+
+sit-e čàl-as-ta.
+sleep.PFV-3PL well-OBL.M-DAT
+"They slept by the well."
+
+delli-k-erd-e čmàry-an čàl-as-ma.
+lower-VTR-PFV-3PL chicken-OBL.PL well-OBL.M-LOC
+"They lowered the chicken into the well."
+
+sl-àur-d-ēnd-san čàl-as-m-a aratīy-ōs;
+sleep-CAUS-PFV-3PL-3PL well-OBL.M-LOC night-3SG
+"They made them sleep in the well that night"
+
+abu ḥàsan nī man-d-a mnēš-san wala čmary-ak.
+Abu Hasan NEG leave-PFV-3SG.M from-3PL nor chicken-INDEF
+"Abu Ḥasan did not leave a single chicken of them."
+
+sabàḥtan inšil-kēr-d-e kadždži-e sell-as min čàl-as-ki
+in.the.morning raise-VTR-PFV-3PL non.Dom.woman-PL basket-OBL.M from well-OBL.M-ABL
+"In the morning the women raised the basket from the well."
+
+pàndžī site-k sell-as-ma.
+he/she sleep-PRED.SG basket-OBL.M-LOC
+"he/Abu Ḥasan was sleeping in the basketǃ"
+
+yōmin kil-d-a båra, nas-r-a.
+when exit-PFV-3SG.M outside escape-PFV-3SG.M
+"When he got up outside, he fled"
+
+a-r-e kadždži-e, ro-r-e
+come-PFV-3PL non.Dom.woman-PL cry-PFV-3PL
+"Those women wept"
+
+u gār-ī-r-e rawàḥ-r-e kuri-ē-san-ta.
+and return-VITR-PFV-3PL go-PFV-3PL house-PL-3PL-DAT
+"and returned, departed to their houses."
+
+mīn-d-a ḥàl-ōs abū ḥasan, qàl
+hold-PFV-3SG.M self-3SG Abu Hasan PART
+"Abu Ḥasan betook himself, he said"
+
+ama bidd-i dž-àm ḥadždž ōč-am u tawab-ḥōč-am ḥaram-ta.
+I want-2SG go-1SG pilgrim become.SUBJ-1SG and cure-VITR.SUBJ-1SG evil-DAT
+""I want to go to the haj and cease from sin""
+
+ast-a qlàr-ak-i, qōl-d-ēk dawài-à-ta, ga-r-ēk ḥadždž ōč-àr.
+there.is-REM Bedouin-INDEF-PRED.SG ride-PFV-PRED.SG camel-OBL.F-DAT go-PFV-PRED.SG pilgrim become.SUBJ-1SG
+"There was a bedawi riding a camel, going to the haj."
+
+mīn-d-a abū ḥasan dhanab-ōs dawà-ya-ki.
+hold-PFV-3SG.M Abu Hasan tail-3SG camel-OBL.F-ABL
+"Abu Ḥasan seized the tail of the camel."
+
+kanind-r-a qlàra, lah-erd-d-ōs-is, mīn-d-ēk dhanàb-ōs dawà-ya-ki.
+look-PFV-3SG.M Bedouin see-PFV-3SG-3SG hold-PFV-PRED.SG tail-3SG camel-OBL.F-ABL
+"The bedawi looked and saw him seizing the tail of the camel."
+
+mīn-d-a ḥàl-ō-s qlà-r-a, pēn-d-a ētirwàl-i
+hold-PFV-3SG.M self-SG-3SG *-PFV-3SG.M take.out-PFV-3SG.M *-F/PRED.SG
+"The bedawi betook himself, seized the sword,"
+
+u fē-r-a ēfeni abū-ḥasan-as winni čin-d-ēk dhanab-os dawày-ak.
+and hit-PFV-3SG.M thus abu hasan-OBL.M PART cut-PFV-PRED.SG tail-)BL.M camel-INDEF
+"And struck Abu Ḥasan thus, and cut the tail of his camel."
+
+mīn-d-a ḥàl-ōs abū ḥasan u gār-ī-r-a.
+hold-PFV-3SG.M self-3SG abu hasan and return-VITR-PFV-3SG.M
+"Abu Ḥasan betook himself and returned."
+
+lah-erd-a ʕasfūr-i pànd-as-ma sit-ēk potr-ē-s-ta.
+see-PFV-3SG.M bird-PRED.SG road-OBL-M-LOC sleep-PRED.SG son-PL-3SG-DAT
+"He saw a bird on the way sleeping on its young."
+
+a-r-a min hnōna ta kumn-ar potr-ē-s.
+come-PFV-3SG.M from there till eat-3SG son-PL-3SG
+"he came from there to eat its children"
+
+ni qār potr-ē-m
+NEG eat son-PL-1SG
+"Don't eat my childrenǃ"
+
+qàl: xàz-nàu-ē-m.
+PART lauch-CAUS-2SG-1SG
+"Abu Ḥasan said "Make me laugh""
+
+qàl: kēt-à?
+PART what-DAT
+"She said "At what?""
+
+qàl: ehe ḥassadīn-àn-ta.
+PART these harvester-OBL.PL-DAT
+"He said "At those harvesters.""
+
+qàl: windir ŭnkī-ir.
+PART stay place-2SG
+"She said "stay where you are""
+
+a-r-i ʕasfūr-i, wind-ird-i kadždž-ak-as sir-ya-ta.
+come-PFV-3SG.F bird-PRED.SG stand-PFV-3SG.F man-INDEF-OBL.M head-OBL.F-DAT
+"The bird came, sat on the head of one of the men."
+
+a-r-a yik-àk min hnōna, a-r-a ta fumn-ar ʕàsfur mendžel-ma;
+come-PFV-3SG.M one-INDEF from there come-PFV-3SG.M till hit-3SG bird-sickle-LOC
+"One man came from there, he came to strike the bird with the sickle;"
+
+čin-d-a siri-ōs kadždž-as-ki.
+cut-PFV-3SG.M head-3SG non.Dom-OBL.M-ABL
+"he cut off the head of the man."
+
+xaz-r-a abū ḥasan, ibsūṭ-ḥ-r-a.
+laugh-PFV-3SG.M Abu Hasan happy-VITR-PFV-3SG.M
+"Abu Ḥasan laughed, he was contented."
+
+d-àur-a potr-ē-s ʕàsfūr-ik, gà-r-à qār-san-ni.
+give-CAUS.PFV-3SG.M son-PL-3SG bird-PRED.SG go-PFV-3SG.M eat-3PL-3PL
+"He rushed on the children of the bird, he went to eat them."
+
+qàl: kē-i màng-ēk?
+PART what-PRED.SG want-PRED.SG
+"She said "What do you want?""
+
+qàl: tirasàlʕ ḥ-r-ōm-i, màng-am-i pī-am
+PART thirsty become-PFV-1SG-PRES want-1SG-PRES drink-1SG
+"he said "I am thirsty, I want to drink"
+
+illi kadždž-ya-ki štal-d-ik kup-ak-i pàn-ik.
+REL non.Dom-OBL.F-ABL raise-PFV-PRED.SG jug-INDEF water-PRED.SG
+"that which a woman is carrying in a jug of water.ː""
+
+deridž-r-i agr-īs ʕasfūr-i kàdždž-ya-ki.
+step-PFV-3SG.F in.front-3SG bird-PRED.SG woman-OBL.F-ABL
+"The bird stepped in front of the woman."
+
+tīr-d-ik ikp-ē-s erhōna,
+put-PFV-PRED.SG jug-PL-3SG there
+"The woman set down her jugs there,"
+
+u d-àur-i ta-mīn-ar ʕasfūr-i.
+and give-CAUS-PFV-3SG.F take-3SG bird-PRED.SG
+"and ran to take the bird."
+
+a-r-a abū ḥasan, pī-r-ēk pàni-is giš.
+come-PFV-3SG.M Abu Hasan drink-PFV-PRED.SG water-3SG all
+"Abu Ḥasan came, drank all her water."
