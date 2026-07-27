@@ -246,14 +246,14 @@ bidd-hum	want-3PL
 -ran	-2PL
 -san	-3PL
 wašī-m	SOC-1SG
-wašī-r	SOC-1SG
-wašī-s	SOC-1SG
+wašī-r	SOC-3SG
+wašī-s	SOC-3SG
 wašī-man	SOC-1PL
 wašī-ran	SOC-2PL
 wašī-san	SOC-3PL
 wāšī-m	SOC-1SG
-wāšī-r	SOC-1SG
-wāšī-s	SOC-1SG
+wāšī-r	SOC-2SG
+wāšī-s	SOC-3SG
 wāšī-man	SOC-1PL
 wāšī-ran	SOC-2PL
 wāšī-san	SOC-3PL
@@ -276,8 +276,8 @@ nkī-man	LOC-1PL
 nkī-ran	LOC-2PL
 nkī-san	LOC-3PL
 wašī-m-i	SOC-1SG-PRED
-wašī-r-i	SOC-1SG-PRED
-wašī-s-i	SOC-1SG-PRED
+wašī-r-i	SOC-2SG-PRED
+wašī-s-i	SOC-3SG-PRED
 wašī-man-i	SOC-1PL-PRED
 wašī-ran-i	SOC-2PL-PRED
 wašī-san-i	SOC-3PL-PRED
@@ -1004,8 +1004,8 @@ de-d-san-a	give-3PL-3PL-REM
 -d-e	-PFV-3PL
 -d-om-i	-PFV-1SG-PRES
 -d-or-i	-PFV-2SG-PRES
--d-ēk	-PFV-PRES.3SG.M
--d-ik	-PFV-PRES.3SG.F
+-d-ēk	-PFV-PRED.SG.M
+-d-ik	-PFV-PRES.SG.F
 -d-ēn-i	-PFV-1PL-PRES
 -d-ēs-i	-PFV-2PL-PRES
 -d-ēd-i	-PFV-3PL-PRES
@@ -1127,8 +1127,8 @@ de-d-san-a	give-3PL-3PL-REM
 -id-e	-PFV-3PL
 -id-om-i	-PFV-1SG-PRES
 -id-or-i	-PFV-2SG-PRES
--id-ēk	-PFV-PRES.3SG.M
--id-ik	-PFV-PRES.3SG.F
+-id-ēk	-PFV-PRED.SG.M
+-id-ik	-PFV-PRED.SG.F
 -id-ēn-i	-PFV-1PL-PRES
 -id-ēs-i	-PFV-2PL-PRES
 -id-ēd-i	-PFV-3PL-PRES
@@ -1250,8 +1250,8 @@ de-d-san-a	give-3PL-3PL-REM
 -ed-e	-PFV-3PL
 -ed-om-i	-PFV-1SG-PRES
 -ed-or-i	-PFV-2SG-PRES
--ed-ēk	-PFV-PRES.3SG.M
--ed-ik	-PFV-PRES.3SG.F
+-ed-ēk	-PFV-PRED.SG.M
+-ed-ik	-PFV-PRED.SG.F
 -ed-ēn-i	-PFV-1PL-PRES
 -ed-ēs-i	-PFV-2PL-PRES
 -ed-ēd-i	-PFV-3PL-PRES
@@ -1373,8 +1373,8 @@ de-d-san-a	give-3PL-3PL-REM
 -ird-e	-PFV-3PL
 -ird-om-i	-PFV-1SG-PRES
 -ird-or-i	-PFV-2SG-PRES
--ird-ēk	-PFV-PRES.3SG.M
--ird-ik	-PFV-PRES.3SG.F
+-ird-ēk	-PFV-PRED.SG.M
+-ird-ik	-PFV-PRED.SG.F
 -ird-ēn-i	-PFV-1PL-PRES
 -ird-ēs-i	-PFV-2PL-PRES
 -ird-ēd-i	-PFV-3PL-PRES
@@ -1496,8 +1496,8 @@ de-d-san-a	give-3PL-3PL-REM
 -ind-e	-PFV-3PL
 -ind-om-i	-PFV-1SG-PRES
 -ind-or-i	-PFV-2SG-PRES
--ind-ēk	-PFV-PRES.3SG.M
--ind-ik	-PFV-PRES.3SG.F
+-ind-ēk	-PFV-PRED.SG.M
+-ind-ik	-PFV-PRED.SG.F
 -ind-ēn-i	-PFV-1PL-PRES
 -ind-ēs-i	-PFV-2PL-PRES
 -ind-ed-i	-PFV-3PL-PRES
@@ -2055,8 +2055,8 @@ de-d-san-a	give-3PL-3PL-REM
 -r-e	-PFV-3PL
 -r-om-i	-PFV-1SG-PRES
 -r-or-i	-PFV-2SG-PRES
--r-ēk	-PFV-PRES.3SG.M
--r-ik	-PFV-PRES.3SG.F
+-r-ēk	-PFV-PRED.SG.M
+-r-ik	-PFV-PRED.SG.F
 -r-ēn-i	-PFV-1PL-PRES
 -r-ēs-i	-PFV-2PL-PRES
 -r-ēd-i	-PFV-3PL-PRES
@@ -2178,8 +2178,8 @@ de-d-san-a	give-3PL-3PL-REM
 -ir-e	-PFV-3PL
 -ir-om-i	-PFV-1SG-PRES
 -ir-or-i	-PFV-2SG-PRES
--ir-ēk	-PFV-PRES.3SG.M
--ir-ik	-PFV-PRES.3SG.F
+-ir-ēk	-PFV-PRED.SG.M
+-ir-ik	-PFV-PRED.SG.F
 -ir-ēn-i	-PFV-1PL-PRES
 -ir-ēs-i	-PFV-2PL-PRES
 -ir-ēd-i	-PFV-3PL-PRES
@@ -2301,8 +2301,8 @@ de-d-san-a	give-3PL-3PL-REM
 -ī-r-e	-VITR-PFV-3PL
 -ī-r-om-i	-VITR-PFV-1SG-PRES
 -ī-r-or-i	-VITR-PFV-2SG-PRES
--ī-r-ēk	-VITR-PFV-PRES.3SG.M
--ī-r-ik	-VITR-PFV-PRES.3SG.F
+-ī-r-ēk	-VITR-PFV-PRED.SG.M
+-ī-r-ik	-VITR-PFV-PRED.SG.F
 -ī-r-ēn-i	-VITR-PFV-1PL-PRES
 -ī-r-ēs-i	-VITR-PFV-2PL-PRES
 -ī-r-ēd-i	-VITR-PFV-3PL-PRES
@@ -2322,8 +2322,8 @@ t-ēs	give.PFV-2PL
 t-e	give.PFV-3PL
 t-om-i	give.PFV-1SG-PRES
 t-or-i	give.PFV-2SG-PRES
-t-ēk	give.PFV-PRES.3SG.M
-t-ik	give.PFV-PRES.3SG.F
+t-ēk	give.PFV-PRED.SG.M
+t-ik	give.PFV-PRED.SG.F
 t-ēn-i	give.PFV-1PL-PRES
 t-ēs-i	give.PFV-2PL-PRES
 t-ēd-i	give.PFV-3PL-PRES
@@ -2445,8 +2445,8 @@ t-ed-san-a	give.PFV-3PL-3PL-REM
 ē-r-e	come-PFV-3PL
 ē-r-om-i	come-PFV-1SG-PRES
 ē-r-or-i	come-PFV-2SG-PRES
-ē-r-ēk	come-PFV-PRES.3SG.M
-ē-r-ik	come-PFV-PRES.3SG.F
+ē-r-ēk	come-PFV-PRED.SG.M
+ē-r-ik	come-PFV-PRED.SG.F
 ē-r-ēn-i	come-PFV-1PL-PRES
 ē-r-ēs-i	come-PFV-2PL-PRES
 ē-r-ēd-i	come-PFV-3PL-PRES
@@ -2568,8 +2568,8 @@ ga-r-gas	go-PFV-2PL
 ga-r-e	go-PFV-3PL
 ga-r-om-i	go-PFV-1SG-PRES
 ga-r-or-i	go-PFV-2SG-PRES
-ga-r-gak	go-PFV-PRES.3SG.M
-ga-r-ik	go-PFV-PRES.3SG.F
+ga-r-gak	go-PFV-PRED.SG.M
+ga-r-ik	go-PFV-PRED.SG.F
 ga-r-gan-i	go-PFV-1PL-PRES
 ga-r-gas-i	go-PFV-2PL-PRES
 ga-r-gad-i	go-PFV-3PL-PRES
@@ -2691,8 +2691,8 @@ fē-r-ēs	hit-PFV-2PL
 fē-r-e	hit-PFV-3PL
 fē-r-om-i	hit-PFV-1SG-PRES
 fē-r-or-i	hit-PFV-2SG-PRES
-fē-r-ēk	hit-PFV-PRES.3SG.M
-fē-r-ik	hit-PFV-PRES.3SG.F
+fē-r-ēk	hit-PFV-PRED.SG.M
+fē-r-ik	hit-PFV-PRED.SG.F
 fē-r-ēn-i	hit-PFV-1PL-PRES
 fē-r-ēs-i	hit-PFV-2PL-PRES
 fē-r-ēd-i	hit-PFV-3PL-PRES
@@ -2814,8 +2814,8 @@ fē-r-ed-san-a	hit-PFV-3PL-3PL-REM
 -h-r-e	-VITR-PFV-3PL
 -h-r-om-i	-VITR-PFV-1SG-PRES
 -h-r-or-i	-VITR-PFV-2SG-PRES
--h-r-ēk	-VITR-PFV-PRES.3SG.M
--h-r-ik	-VITR-PFV-PRES.3SG.F
+-h-r-ēk	-VITR-PFV-PRED.SG.M
+-h-r-ik	-VITR-PFV-PRED.SG.F
 -h-r-ēn-i	-VITR-PFV-1PL-PRES
 -h-r-ēs-i	-VITR-PFV-2PL-PRES
 -h-r-ēd-i	-VITR-PFV-3PL-PRES
@@ -2945,6 +2945,7 @@ atu	you.SG	pron
 atun	above	adv
 a-	come-	v	Mac
 aw-	come-	v
+àu-	come-	v
 er-	come-	v
 ēr-	come-	v
 ē-	come-	v
@@ -3610,9 +3611,9 @@ nikš-	enter-	v
 nigr-	enter-	v
 nig-	enter-	v
 nīm	half	num	Pers.
-nimr	Nimr	n	Ar.
-nimir	Nimr	n	Ar.
-nimer	Nimr	n	Ar.
+nimr	panther	n	Ar.
+nimir	panther	n	Ar.
+nimer	panther	n	Ar.
 ningaw-	take- in	v
 niswān	women	n	Ar.
 nkī-	at/by0	prep
@@ -6025,8 +6026,8 @@ bidd-àk	want-2SG.M
 -ràn	-2PL
 -sàn	-3PL
 wàšī-m	SOC-1SG
-wàšī-r	SOC-1SG
-wàšī-s	SOC-1SG
+wàšī-r	SOC-2SG
+wàšī-s	SOC-3SG
 wàšī-màn	SOC-1PL
 wàšī-ràn	SOC-2PL
 wàšī-sàn	SOC-3PL
@@ -6046,8 +6047,8 @@ nkī-màn	LOC-1PL
 nkī-ràn	LOC-2PL
 nkī-sàn	LOC-3PL
 wàšī-m-i	SOC-1SG-PRED
-wàšī-r-i	SOC-1SG-PRED
-wàšī-s-i	SOC-1SG-PRED
+wàšī-r-i	SOC-2SG-PRED
+wàšī-s-i	SOC-3SG-PRED
 wàšī-màn-i	SOC-1PL-PRED
 wàšī-ràn-i	SOC-2PL-PRED
 wàšī-sàn-i	SOC-3PL-PRED
@@ -7479,8 +7480,8 @@ gà-r-gàs	go-PFV-2PL
 gà-r-e	go-PFV-3PL
 gà-r-om-i	go-PFV-1SG-PRES
 gà-r-or-i	go-PFV-2SG-PRES
-gà-r-gàk	go-PFV-PRES.3SG.M
-gà-r-ik	go-PFV-PRES.3SG.F
+gà-r-gàk	go-PFV-PRED.SG.M
+gà-r-ik	go-PFV-PRED.SG.F
 gà-r-gàn-i	go-PFV-1PL-PRES
 gà-r-gàs-i	go-PFV-2PL-PRES
 gà-r-gàd-i	go-PFV-3PL-PRES
@@ -8126,6 +8127,7 @@ sàyyàk	one.hundred	num
 sàyyārà	car	n	Ar.
 sàyyifk-	spend.the.summer-	v	Ar.
 sēʕà	hour	n	Ar.
+sa'a	hour	Mac.
 sildà	cold	adj
 sitàʕšr	sixteen	num	Ar.
 skunàhr-	live-	v	Ar.
@@ -11127,8 +11129,8 @@ de-m-ur-a	give-1SG-2SG-REM
 -urd-e	-PFV-3PL
 -urd-om-i	-PFV-1SG-PRES
 -urd-or-i	-PFV-2SG-PRES
--urd-ēk	-PFV-PRES.3SG.M
--urd-ik	-PFV-PRES.3SG.F
+-urd-ēk	-PFV-PRED.SG.M
+-urd-ik	-PFV-PRED.SG.F
 -urd-ēn-i	-PFV-1PL-PRES
 -urd-ēs-i	-PFV-2PL-PRES
 -urd-ēd-i	-PFV-3PL-PRES
@@ -11270,8 +11272,8 @@ de-m-ur-a	give-1SG-2SG-REM
 -ur-e	-PFV-3PL
 -ur-om-i	-PFV-1SG-PRES
 -ur-or-i	-PFV-2SG-PRES
--ur-ēk	-PFV-PRES.3SG.M
--ur-ik	-PFV-PRES.3SG.F
+-ur-ēk	-PFV-PRED.SG.M
+-ur-ik	-PFV-PRED.SG.F
 -ur-ēn-i	-PFV-1PL-PRES
 -ur-ēs-i	-PFV-2PL-PRES
 -ur-ēd-i	-PFV-3PL-PRES
@@ -12297,8 +12299,8 @@ fàkkurhū-	think-	v	Ar.
 -erd-e	-PFV-3PL
 -erd-om-i	-PFV-1SG-PRES
 -erd-or-i	-PFV-2SG-PRES
--erd-ēk	-PFV-PRES.3SG.M
--erd-ik	-PFV-PRES.3SG.F
+-erd-ēk	-PFV-PRED.SG.M
+-erd-ik	-PFV-PRED.SG.F
 -erd-ēn-i	-PFV-1PL-PRES
 -erd-ēs-i	-PFV-2PL-PRES
 -erd-ēd-i	-PFV-3PL-PRES
