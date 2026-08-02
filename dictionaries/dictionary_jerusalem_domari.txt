@@ -3215,6 +3215,7 @@ farša	mattress	n	Ar.
 farwa	fur	n	Ar.
 farw	fur	n	Ar.
 farw-	fur	n	Ar.
+fūrwē	fur	n	Ar.
 faržīk-	show-	v	Ar.
 fatra	period	n	Ar.
 fauran	immediately	adv	Ar.

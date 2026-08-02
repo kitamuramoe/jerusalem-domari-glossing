@@ -271,9 +271,9 @@ u kta qàl-an čàl-as-ma
 and throw black-OBL.PL pit-OBL.M-LOC
 "and cast the skins."
 
-čàl-as-m-a
-“into the pit”
+čàl-as-ma
 pit-OBL.M-LOC
+“into the pit”
 
 a-r-a nimr ab-ŭs-kara, kàl: kà fūrwē, abū ḥasan?
 come-PFV-3SG.M panther for-3SG-BEN PART where fur Abu Hasan
