@@ -10571,3 +10571,9 @@ kidŭmur	- -k-id-ŭm-ur
 kidŭsur	- -k-id-ŭs-ur
 kidūmur	- -k-id-ūm-ur
 kidūsur	- -k-id-ūs-ur
+mindžīm mindž-īm
+mindžīr	mindž-īr
+mindžīs	mindž-īs
+mindžīm mindž-īman
+mindžīr	mindž-īran
+mindžīs	mindž-īsan

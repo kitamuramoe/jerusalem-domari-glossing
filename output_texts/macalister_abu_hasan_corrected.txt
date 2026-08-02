@@ -1,5 +1,5 @@
 ast-a yikàk-i ṭàṭ-i
-there.is-REM one- PRED Arab-PRED.SG
+there.is-REM one-PRED Arab-PRED.SG
 "There was a fallah"
 
 ašte wašī-s dī gōrw-i.
@@ -15,7 +15,7 @@ rise-PFV-3SG.M from there cow-INDEF release-PFV-3SG.M
 "An ox arose from there, and got free"
 
 man-d-ōs-is ṭàṭ, rawàḥ-r-a kuri-is-ta.
-leave-PFV-3SG-3SG Arab go-PFV-3SG.M house-3SG.OBL-DAT
+leave-PFV-3SG-3SG Arab go-PFV-3SG.M house-3SG-DAT
 "The fellah left him, went to his house"
 
 qāl: sabàḥtan laher-d-ōm-ur, yà ŭhŭ gōrū ē der-ya-ma, mar-d-ōm-ur ē čir-y-a-ma.
@@ -55,7 +55,7 @@ die-PFV-3SG.M self-3SG and go-PFV-3SG.M Abu Hasan panther-OBL.M-BEN
 "Abu Ḥasan betook himself and went to the panther."
 
 č-ird-a ab-us-ka: hàdi gōrw-i q-ar-a ḥaštš-ir-ma.
-say-PFV-3SG.M for-3SG-DAT PART cow-PRED.SG eat-3SG-REM grass-2SG.OBL-LOC
+say-PFV-3SG.M for-3SG-DAT PART cow-PRED.SG eat-3SG-REM grass-2SG-LOC
 "He said "This ox has eaten in thy grass""
 
 čar-ī-r-a abŭ ḥasan,
@@ -116,7 +116,7 @@ and then
 "and aferwards"
 
 fē-r-i qaf-is-ma,
-hit-PFV-3SG.F paw-3SG.OBL-LOC
+hit-PFV-3SG.F paw-3SG-LOC
 "she will strike thee with her paw"
 
 ma-r-ēk u q-ar-i.
@@ -136,7 +136,7 @@ hold-PFV-3SG.M self-SG-3SG Abu Hasan go-PFV-3SG.M panther-BEN PART
 "Abu Ḥasan betook himself, went to the panther, said"
 
 atū man-d-ōr gōrw-i rabiʕ-ē-ma;
-you.SG leave-PFV-2SG cow-PRED.SG grass-OBL.F-LOC
+you leave-PFV-2SG cow-PRED.SG grass-OBL.F-LOC
 "Thou hast left the ox in the spring-grass;"
 
 džà, lah-am galna-ker waš-īs.
@@ -164,7 +164,7 @@ cow push-VTR-PFV-3SG.M horn-3SG-LOC
 "the ox thrust his horn (into the ground)"
 
 u fē-r-ōs-is qurn-ōs-ma
-and hit-PFV-3SG-3SG.OBL horn-3SG-LOC
+and hit-PFV-3SG-3SG horn-3SG-LOC
 "and struck him"
 
 u stuhḥ-k-erd-a nimr-os.
@@ -184,7 +184,7 @@ rise/stand-PFV-3SG.M from there Abu Hasan go-PFV-3SG.M eat-PFV-3SG.M two-PRED-LO
 "Abu Ḥasan arose from there, went to eat the two."
 
 nàdi-k-erd-a bài-is u potr-e-s
-call-PFV-3SG.M wife-3SG.OBL and child-PL-3SG
+call-PFV-3SG.M wife-3SG and child-PL-3SG
 "He called his wife and children,"
 
 qa-r-e wašī-s.
@@ -232,7 +232,7 @@ I PART become-PFV-1SG-PRES cow-PRED.SG
 ""I am not the ox" (said by Abu Ḥasan)"
 
 àtū illi ik-t-ōr fasàdi
-you.SG REL raise-PFV-2SG quarrel
+you REL raise-PFV-2SG quarrel
 ""It is he who roused the quarrel" (said by Abu Ḥasan)"
 
 lah-erd-a nimr fūrw-ē pal-ē-s-t-ik;
@@ -240,7 +240,7 @@ see-PFV-3SG.M panther fur-OBL.F shoulder-PL-3SG-DAT-PRED.SG
 "The panther saw the sheepskin coat which was on his shoulder."
 
 kàl: àbū ḥasan, ke-r-ēk amà-ka yik-àk miθl àur-ak-i?
-PART Abu Hasan do-PFV-PRED>SG I-DAT one-INDEF like other-INDEF-PRED.SG
+PART Abu Hasan do-PFV-PRED.SG I-DAT one-INDEF like other-INDEF-PRED.SG
 "Abu Ḥasan, Wilt though make for me one like that?""
 
 rūd-r-a abū ḥasan: ker-am-i:
@@ -263,7 +263,7 @@ mīn-d-a ḥàl-ōs nimr, nan-d-a ab-ŭs-karà št-àr bakra.
 hold-PFV-3SG.M self-3SG panther bring-PFV-3SG.M for-3SG-BEN rise-3SG lamb
 "The panther betook himself, brought four sheep to him."
 
-qa r-a màsy-an,
+qa-r-a màsy-an,
 eat-3SG-REM meat-OBL.PL
 "He ate the flesh"
 
@@ -308,7 +308,7 @@ come-PFV-3SG.M for-3SG-BEN panther
 "The panther came to him"
 
 kà fūrwē, abū hasan?
-where fur Abu hasan
+where fur Abu Hasan
 "he said, "where is the coat, Abu Ḥasan?""
 
 qàl: wind-ir ta nan-am-is.
@@ -344,7 +344,7 @@ rise-PFV-3SG.M from there Abu Hasan leave-PFV-3SG.M bald
 "Abu Ḥasan rose from there and remained tailless. "
 
 č-ird-a nimr abus-kà, qàl: atū, abu ḥasan ʕazar-ḥ-r-ōr, džan-d-ōm-ur.
-say-PFV-3SG.M panther for-3SG-DAT PART you.SG Abu Hasan bald-become-PFV-2SG know-PFV-1SG-2SG
+say-PFV-3SG.M panther for-3SG-DAT PART you Abu Hasan bald-become-PFV-2SG know-PFV-1SG-2SG
 "The panther said to him, he said: "Thou art tailless, Abu Ḥasan," "I will know thee.""
 
 ga-r-a min hnōna abū ḥasan,
@@ -388,7 +388,7 @@ and come-PFV-3SG.M watch-OBL.M-BEN
 "and came the watchman."
 
 sawuṭ-kē-r-d-à kan-is-ma.
-voice-VTR-PFV-3SG.M ear-3SG.OBL-LOC
+voice-VTR-PFV-3SG.M ear-3SG-LOC
 "He shouted in his ear"
 
 št-ird-a min hnōna ŭhŭ naṭūr fē-r-ōs-san dfàng-ma winni
@@ -412,7 +412,7 @@ PART what do-PFV-PRED.SG PART person-PRED.SG
 "He said "Fellow, what dost thou with me?""
 
 qàl: atu par-d-ōr bak-ran u qā-r-ōs-san,
-PART you.SG take-PFV-2SG sheep-OBL.PL -2PL and eat-PFV-3SG-3PL
+PART you take-PFV-2SG sheep-OBL.PL -2PL and eat-PFV-3SG-3PL
 "He said "thou has taken the sheep and eaten them"
 
 nī ke-rd-ōr fūrwē ama-kara.
@@ -424,7 +424,7 @@ PART I NEG-become-PFV-1SG-PRES
 "he said "It is not I""
 
 qàl: atū-h-r-ūr-i.
-PART you.SG-become-PFV-2SG-PRES
+PART you-become-PFV-2SG-PRES
 "He said "It is thee""
 
 qàl: kē-i džan-àur-d-ōs-ir inn-i ama h-r-ōm-i?
@@ -488,7 +488,7 @@ become-PFV-3PL two-PRED.SG well-OBL.M-LOC
 "The two were in the well."
 
 mīn-d-a ḥàl-ōs nimr, dī dīs ibkarwài-àn-ki m-r-à.
-hold-PFV-3SG.M self-3SG penther two day hunger-OBL.PL-ABL die-PFV-3SG.M
+hold-PFV-3SG.M self-3SG panther two day hunger-OBL.PL-ABL die-PFV-3SG.M
 "In two days the panther died of hunger"
 
 qà-r-a abū ḥasan nimr-as čàl-as-m-a.
@@ -572,11 +572,11 @@ hold-PFV-3SG.M self-SG-3SG *-PFV-3SG.M take.out-PFV-3SG.M *-F/PRED.SG
 "The bedawi betook himself, seized the sword,"
 
 u fē-r-a ēfeni abū-ḥasan-as winni čin-d-ēk dhanab-os dawày-ak.
-and hit-PFV-3SG.M thus abu hasan-OBL.M PART cut-PFV-PRED.SG tail-)BL.M camel-INDEF
+and hit-PFV-3SG.M thus Abu Hasan-OBL.M PART cut-PFV-PRED.SG tail-)BL.M camel-INDEF
 "And struck Abu Ḥasan thus, and cut the tail of his camel."
 
 mīn-d-a ḥàl-ōs abū ḥasan u gār-ī-r-a.
-hold-PFV-3SG.M self-3SG abu hasan and return-VITR-PFV-3SG.M
+hold-PFV-3SG.M self-3SG Abu Hasan and return-VITR-PFV-3SG.M
 "Abu Ḥasan betook himself and returned."
 
 lah-erd-a ʕasfūr-i pànd-as-ma sit-ēk potr-ē-s-ta.

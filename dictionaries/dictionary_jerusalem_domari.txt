@@ -1,4 +1,4 @@
--a	-M
+-a	-M/REM
 -ī	-F
 -i	-F/PRED.SG
 -e	-PL
@@ -23,121 +23,122 @@
 -y-a-ta	-OBL.F-DAT
 -an-ta	-OBL.PL-DAT
 -y-an-ta	-F-OBL.PL-DAT
--im-ta	-1SG.OBL-DAT
--ir-ta	-2SG.OBL-DAT
--is-ta	-3SG.OBL-DAT
--o-m-ta	-SG-1SG.OBL-DAT
--o-r-ta	-SG-2SG.OBL-DAT
--o-s-ta	-SG-3SG.OBL-DAT
--ē-m-ta	-PL-1SG.OBL-DAT
--ē-r-ta	-PL-2SG.OBL-DAT
--ē-s-ta	-PL-3SG.OBL-DAT
--o-man-ta	-SG-1PL.OBL-DAT
--o-ran-ta	-SG-2PL.OBL-DAT
--o-san-ta	-SG-3PL.OBL-DAT
--ē-man-ta	-PL-1PL.OBL-DAT
--ē-ran-ta	-PL-2PL.OBL-DAT
--ē-san-ta	-PL-3PL.OBL-DAT
+-im-ta	-1SG-DAT
+-ir-ta	-2SG-DAT
+-is-ta	-3SG-DAT
+-o-m-ta	-SG-1SG-DAT
+-o-r-ta	-SG-2SG-DAT
+-o-s-ta	-SG-3SG-DAT
+-ē-m-ta	-PL-1SG-DAT
+-ē-r-ta	-PL-2SG-DAT
+-ē-s-ta	-PL-3SG-DAT
+-o-man-ta	-SG-1PL-DAT
+-o-ran-ta	-SG-2PL-DAT
+-o-san-ta	-SG-3PL-DAT
+-ē-man-ta	-PL-1PL-DAT
+-ē-ran-ta	-PL-2PL-DAT
+-ē-san-ta	-PL-3PL-DAT
 -ki	-ABL
 -as-ki	-OBL.M-ABL
 -y-a-ki	-OBL.F-ABL
 -an-ki	-OBL.PL-ABL
 -y-an-ki	-F-OBL.PL-ABL
--im-ki	-1SG.OBL-ABL
--ir-ki	-2SG.OBL-ABL
--is-ki	-3SG.OBL-ABL
--o-m-ki	-SG-1SG.OBL-ABL
--o-r-ki	-SG-2SG.OBL-ABL
--o-s-ki	-SG-3SG.OBL-ABL
--ē-m-ki	-PL-1SG.OBL-ABL
--ē-r-ki	-PL-2SG.OBL-ABL
--ē-s-ki	-PL-3SG.OBL-ABL
--o-man-ki	-SG-1PL.OBL-ABL
--o-ran-ki	-SG-2PL.OBL-ABL
--o-san-ki	-SG-3PL.OBL-ABL
--ē-man-ki	-PL-1PL.OBL-ABL
--ē-ran-ki	-PL-2PL.OBL-ABL
--ē-san-ki	-PL-3PL.OBL-ABL
+-im-ki	-1SG-ABL
+-ir-ki	-2SG-ABL
+-is-ki	-3SG-ABL
+-o-m-ki	-SG-1SG-ABL
+-o-r-ki	-SG-2SG-ABL
+-o-s-ki	-SG-3SG-ABL
+-ē-m-ki	-PL-1SG-ABL
+-ē-r-ki	-PL-2SG-ABL
+-ē-s-ki	-PL-3SG-ABL
+-o-man-ki	-SG-1PL-ABL
+-o-ran-ki	-SG-2PL-ABL
+-o-san-ki	-SG-3PL-ABL
+-ē-man-ki	-PL-1PL-ABL
+-ē-ran-ki	-PL-2PL-ABL
+-ē-san-ki	-PL-3PL-ABL
 -ma	-LOC
 -mà	-LOC
 -as-ma	-OBL.M-LOC
 -y-a-ma	-OBL.F-LOC
 -an-ma	-OBL.PL-LOC
 -y-an-ma	-F-OBL.PL-LOC
--im-ma	-1SG.OBL-LOC
--ir-ma	-2SG.OBL-LOC
--is-ma	-3SG.OBL-LOC
--o-m-ma	-SG-1SG.OBL-LOC
--o-r-ma	-SG-2SG.OBL-LOC
--o-s-ma	-SG-3SG.OBL-LOC
--ē-m-ma	-PL-1SG.OBL-LOC
--ē-r-ma	-PL-2SG.OBL-LOC
--ē-s-ma	-PL-3SG.OBL-LOC
--o-man-ma	-SG-1PL.OBL-LOC
--o-ran-ma	-SG-2PL.OBL-LOC
--o-san-ma	-SG-3PL.OBL-LOC
--ē-man-ma	-PL-1PL.OBL-LOC
--ē-ran-ma	-PL-2PL.OBL-LOC
--ē-san-ma	-PL-3PL.OBL-LOC
+-im-ma	-1SG-LOC
+-ir-ma	-2SG-LOC
+-is-ma	-3SG-LOC
+-o-m-ma	-SG-1SG-LOC
+-o-r-ma	-SG-2SG-LOC
+-o-s-ma	-SG-3SG-LOC
+-ē-m-ma	-PL-1SG-LOC
+-ē-r-ma	-PL-2SG-LOC
+-ē-s-ma	-PL-3SG-LOC
+-o-man-ma	-SG-1PL-LOC
+-o-ran-ma	-SG-2PL-LOC
+-o-san-ma	-SG-3PL-LOC
+-ē-man-ma	-PL-1PL-LOC
+-ē-ran-ma	-PL-2PL-LOC
+-ē-san-ma	-PL-3PL-LOC
 -ka	-DAT
 -as-ka	-OBL.M-DAT
 -y-a-ka	-F-OBL.F-DAT
 -an-ka	-OBL.PL-DAT
 -y-an-ka	-F-OBL.PL-DAT
--im-ka	-1SG.OBL-DAT
--ir-ka	-2SG.OBL-DAT
--is-ka	-3SG.OBL-DAT
--o-m-ka	-SG-1SG.OBL-DAT
--o-r-ka	-SG-2SG.OBL-DAT
--o-s-ka	-SG-3SG.OBL-DAT
--ē-m-ka	-PL-1SG.OBL-DAT
--ē-r-ka	-PL-2SG.OBL-DAT
--ē-s-ka	-PL-3SG.OBL-DAT
--o-man-ka	-SG-1PL.OBL-DAT
--o-ran-ka	-SG-2PL.OBL-DAT
--o-san-ka	-SG-3PL.OBL-DAT
--ē-man-ka	-PL-1PL.OBL-DAT
--ē-ran-ka	-PL-2PL.OBL-DAT
--ē-san-ka	-PL-3PL.OBL-DAT
+-im-ka	-1SG-DAT
+-ir-ka	-2SG-DAT
+-is-ka	-3SG-DAT
+-o-m-ka	-SG-1SG-DAT
+-o-r-ka	-SG-2SG-DAT
+-o-s-ka	-SG-3SG-DAT
+-ē-m-ka	-PL-1SG-DAT
+-ē-r-ka	-PL-2SG-DAT
+-ē-s-ka	-PL-3SG-DAT
+-o-man-ka	-SG-1PL-DAT
+-o-ran-ka	-SG-2PL-DAT
+-o-san-ka	-SG-3PL-DAT
+-ē-man-ka	-PL-1PL-DAT
+-ē-ran-ka	-PL-2PL-DAT
+-ē-san-ka	-PL-3PL-DAT
 -ke	-BEN
 -as-ke	-OBL.M-BEN
 -y-a-ke	-OBL.F-BEN
 -an-ke	-OBL.PL-BEN
 -y-an-ke	-F-OBL.PL-BEN
--im-ke	-1SG.OBL-BEN
--ir-ke	-2SG.OBL-BEN
--is-ke	-3SG.OBL-BEN
--o-m-ke	-SG-1SG.OBL-BEN
--o-r-ke	-SG-2SG.OBL-BEN
--o-s-ke	-SG-3SG.OBL-BEN
--ē-m-ke	-PL-1SG.OBL-BEN
--ē-r-ke	-PL-2SG.OBL-BEN
--ē-s-ke	-PL-3SG.OBL-BEN
--o-man-ke	-SG-1PL.OBL-BEN
--o-ran-ke	-SG-2PL.OBL-BEN
--o-san-ke	-SG-3PL.OBL-BEN
--ē-man-ke	-PL-1PL.OBL-BEN
--ē-ran-ke	-PL-2PL.OBL-BEN
--ē-san-ke	-PL-3PL.OBL-BEN
+-im-ke	-1SG-BEN
+-ir-ke	-2SG-BEN
+-is-ke	-3SG-BEN
+-o-m-ke	-SG-1SG-BEN
+-o-r-ke	-SG-2SG-BEN
+-o-s-ke	-SG-3SG-BEN
+-ē-m-ke	-PL-1SG-BEN
+-ē-r-ke	-PL-2SG-BEN
+-ē-s-ke	-PL-3SG-BEN
+-o-man-ke	-SG-1PL-BEN
+-o-ran-ke	-SG-2PL-BEN
+-o-san-ke	-SG-3PL-BEN
+-ē-man-ke	-PL-1PL-BEN
+-ē-ran-ke	-PL-2PL-BEN
+-ē-san-ke	-PL-3PL-BEN
 -as-kara	-OBL.M-BEN
 -y-a-kara	-OBL.F-BEN
 -an-kara	-OBL.PL-BEN
 -y-an-kara	-F-OBL.PL-BEN
--im-kara	-1SG.OBL-BEN
--ir-kara	-2SG.OBL-BEN
--is-kara	-3SG.OBL-BEN
--o-m-kara	-SG-1SG.OBL-BEN
--o-r-kara	-SG-2SG.OBL-BEN
--o-s-kara	-SG-3SG.OBL-BEN
--ē-m-kara	-PL-1SG.OBL-BEN
--ē-r-kara	-PL-2SG.OBL-BEN
--ē-s-kara	-PL-3SG.OBL-BEN
--o-man-kara	-SG-1PL.OBL-BEN
--o-ran-kara	-SG-2PL.OBL-BEN
--o-san-kara	-SG-3PL.OBL-BEN
--ē-man-kara	-PL-1PL.OBL-BEN
--ē-ran-kara	-PL-2PL.OBL-BEN
--ē-san-kara	-PL-3PL.OBL-BEN
+-im-kara	-1SG-BEN
+-ir-kara	-2SG-BEN
+-is-kara	-3SG-BEN
+-o-m-kara	-SG-1SG-BEN
+-o-r-kara	-SG-2SG-BEN
+-o-s-kara	-SG-3SG-BEN
+-ē-m-kara	-PL-1SG-BEN
+-ē-r-kara	-PL-2SG-BEN
+-ē-s-kara	-PL-3SG-BEN
+-o-man-kara	-SG-1PL-BEN
+-o-ran-kara	-SG-2PL-BEN
+-o-san-kara	-SG-3PL-BEN
+-ē-man-kara	-PL-1PL-BEN
+-ē-ran-kara	-PL-2PL-BEN
+-ē-san-kara	-PL-3PL-BEN
+ab-us	for-3SG
 ab-om-ke	for-1SG-BEN
 ab-or-ke	for-2SG-BEN
 ab-os-ke	for-3SG-BEN
@@ -151,10 +152,10 @@ ab-ŭs-ke	for-3SG-BEN	Mac
 ab-ŭs-ke	for-3SG-BEN	Mac
 ab-ŭm-kara	for-1SG-BEN	Mac
 ab-ŭr-kara	for-2SG-BEN	Mac
-ab-ŭs-kara	for-3SG-BEN	Mac
+ab-ŭs-kara	for--3SG-BEN	Mac
 ab-ŭs-kara	for-3SG-BEN	Mac
 ab-om-kara	for-1SG-BEN	Mac
-ab-or-kara	for-2SG-BEN	Mac
+ab-or-kara	for--2SG-BEN	Mac
 ab-os-kara	for-3SG-BEN	Mac
 ab-ūm-kara	for-1SG-BEN	Mac
 ab-ūr-kara	for-2SG-BEN	Mac
@@ -170,6 +171,12 @@ ab-us-ka	for-3SG-DAT	Mac
 ab-man-ka	for-1PL-DAT	Mac
 ab-ran-ka	for-2PL-DAT	Mac
 ab-san-ka	for-3PL-DAT	Mac
+mindž-īm	in-1SG
+mindž-īr	in-2SG
+mindž-īs	in-3SG
+mindž-īman	in-1PL
+mindž-īran	in-2PL
+mindž-īsan	in-3PL
 -kera	-BEN
 -kara	-BEN	Mac
 -san	-SOC
@@ -177,21 +184,21 @@ ab-san-ka	for-3PL-DAT	Mac
 -y-a-san	-OBL.F-SOC
 -an-san	-OBL.PL-SOC
 -y-an-san	-F-OBL.PL-SOC
--im-san	-1SG.OBL-SOC
--ir-san	-2SG.OBL-SOC
--is-san	-3SG.OBL-SOC
--o-m-san	-SG-1SG.OBL-SOC
--o-r-san	-SG-2SG.OBL-SOC
--o-s-san	-SG-3SG.OBL-SOC
--ē-m-san	-PL-1SG.OBL-SOC
--ē-r-san	-PL-2SG.OBL-SOC
--ē-s-san	-PL-3SG.OBL-SOC
--o-man-san	-SG-1PL.OBL-SOC
--o-ran-san	-SG-2PL.OBL-SOC
--o-san-san	-SG-3PL.OBL-SOC
--ē-man-san	-PL-1PL.OBL-SOC
--ē-ran-san	-PL-2PL.OBL-SOC
--ē-san-san	-PL-3PL.OBL-SOC
+-im-san	-1SG-SOC
+-ir-san	-2SG-SOC
+-is-san	-3SG-SOC
+-o-m-san	-SG-1SG-SOC
+-o-r-san	-SG-2SG-SOC
+-o-s-san	-SG-3SG-SOC
+-ē-m-san	-PL-1SG-SOC
+-ē-r-san	-PL-2SG-SOC
+-ē-s-san	-PL-3SG-SOC
+-o-man-san	-SG-1PL-SOC
+-o-ran-san	-SG-2PL-SOC
+-o-san-san	-SG-3PL-SOC
+-ē-man-san	-PL-1PL-SOC
+-ē-ran-san	-PL-2PL-SOC
+-ē-san-san	-PL-3PL-SOC
 -y	-1SG
 -k	-2SG
 -h	-3SG.M
@@ -221,9 +228,9 @@ bidd-hum	want-3PL
 -o-m-i	-SG-1SG-PRED
 -o-r-i	-SG-2SG-PRED
 -o-s-i	-SG-3SG-PRED
--im	-1SG.OBL
--ir	-2SG.OBL
--is	-3SG.OBL
+-im	-1SG
+-ir	-2SG
+-is	-3SG
 -ē-m	-PL-1SG
 -ē-r	-PL-2SG
 -ē-s	-PL-3SG/-2SG-3SG
@@ -245,18 +252,18 @@ bidd-hum	want-3PL
 -man	-1PL
 -ran	-2PL
 -san	-3PL
-wašī-m	SOC-1SG
-wašī-r	SOC-3SG
-wašī-s	SOC-3SG
-wašī-man	SOC-1PL
-wašī-ran	SOC-2PL
-wašī-san	SOC-3PL
-wāšī-m	SOC-1SG
-wāšī-r	SOC-2SG
-wāšī-s	SOC-3SG
-wāšī-man	SOC-1PL
-wāšī-ran	SOC-2PL
-wāšī-san	SOC-3PL
+wašī-m	with-1SG
+wašī-r	with-3SG
+wašī-s	with-3SG
+wašī-man	with-1PL
+wašī-ran	with-2PL
+wašī-san	with-3PL
+wāšī-m	with-1SG
+wāšī-r	with-2SG
+wāšī-s	with-3SG
+wāšī-man	with-1PL
+wāšī-ran	with-2PL
+wāšī-san	with-3PL
 minkī-m	ABL-1SG
 minkī-r	ABL-2SG
 minkī-s	ABL-3SG
@@ -275,12 +282,12 @@ nkī-s	LOC-3SG
 nkī-man	LOC-1PL
 nkī-ran	LOC-2PL
 nkī-san	LOC-3PL
-wašī-m-i	SOC-1SG-PRED
-wašī-r-i	SOC-2SG-PRED
-wašī-s-i	SOC-3SG-PRED
-wašī-man-i	SOC-1PL-PRED
-wašī-ran-i	SOC-2PL-PRED
-wašī-san-i	SOC-3PL-PRED
+wašī-m-i	with-1SG-PRED
+wašī-r-i	with-2SG-PRED
+wašī-s-i	with-3SG-PRED
+wašī-man-i	with-1PL-PRED
+wašī-ran-i	with-2PL-PRED
+wašī-san-i	with-3PL-PRED
 minkī-m-i	ABL-1SG-PRED
 minkī-r-i	ABL-2SG-PRED
 minkī-s-i	ABL-3SG-PRED
@@ -293,6 +300,7 @@ atnī-s-i	DAT-3SG-PRED
 atnī-man-i	DAT-1PL-PRED
 atnī-ran-i	DAT-2PL-PRED
 atnī-san-i	DAT-3PL-PRED
+at-sun-ta	for-3PL-DAT
 nkī-m-i	LOC-1SG-PRED
 nkī-r-i	LOC-2SG-PRED
 nkī-s-i	LOC-3SG-PRED
@@ -311,7 +319,7 @@ nkī-san-i	LOC-3PL-PRED
 ʕankī-man-i	about-1PL-PRED
 ʕankī-ran-i	about-2PL-PRED
 ʕankī-san-i	about-3PL-PRED
-mīndē-san	SOC-3PL
+mīndē-san	with-3PL
 er-as	DEM.PROX-OBL.M.SG
 er-a	DEM.PROX-OBL.F.SG
 er-an	DEM.PROX-OBL.PL
@@ -776,7 +784,7 @@ kān-ik	who-PRED.SG
 -ok	-2SG
 -or	-3SG
 -on	-1PL
--os	-2PL
+-os	-2PL/3SG
 -od	-3PL
 -ond	-3PL
 -om-i	-1SG-PRES
@@ -2710,6 +2718,13 @@ fē-r-or-is	hit-PFV-2SG-3SG
 fē-r-os-im	hit-PFV-3SG-1SG
 fē-r-os-ir	hit-PFV-3SG-2SG
 fē-r-os-is	hit-PFV-3SG-3SG
+fē-r-ōm-ir	hit-PFV-1SG-2SG
+fē-r-ōm-is	hit-PFV-1SG-3SG
+fē-r-ōr-im	hit-PFV-2SG-1SG
+fē-r-ōr-is	hit-PFV-2SG-3SG
+fē-r-ōs-im	hit-PFV-3SG-1SG
+fē-r-ōs-ir	hit-PFV-3SG-2SG
+fē-r-ōs-is	hit-PFV-3SG-3SG
 fē-r-ēn-im	hit-PFV-1PL-1SG
 fē-r-ēn-ir	hit-PFV-1PL-2SG
 fē-r-ēn-is	hit-PFV-1PL-3SG
@@ -2825,14 +2840,14 @@ fē-r-ed-san-a	hit-PFV-3PL-3PL-REM
 -h-r-īy-a	-VITR-PFV-3SG.F-REM
 -h-r-ēs-a	-VITR-PFV-2PL-REM
 -h-r-ēd-a	-VITR-PFV-3PL-REM
-kunt	COP.1SG/2SG
-kunti	COP.2SG.F
-kān	COP.3SG.M
-kānat	COP.3SG.F
-kunna	COP.1PL
-kuntū	COP.2PL
-kānū	COP.3PL
-kānu	COP.3PL
+kunt	was.1SG/2SG
+kunti	was.2SG.F
+kān	was.3SG.M
+kānat	was.3SG.F
+kunna	was.1PL
+kuntū	was.2PL
+kānū	was.3PL
+kānu	was.3PL
 ṣirt	begin.1SG/2SG
 ṣār	begin.3SG.M
 ṣārat	begin.3SG.F
@@ -2874,7 +2889,7 @@ in-nā	COMP-1PL
 inn-kum	COMP-2PL
 inn-hom	COMP-3PL
 n-h-e'	NEG-COP-NEG
-ab-	for	prep
+ab-	on	prep
 abadan	at.all	adv	Ar.
 abṣar	I.wonder	part	Ar.
 abu	Abu	n	Ar.
@@ -2908,6 +2923,7 @@ alf	thousand	num	Ar.
 allah	God	n	Ar.
 alwān	colours	n	Ar.
 ama	I	pron
+amà	I	pron	Mac
 ambulans	ambulance	n	Ar.
 ame	we	pron
 amma	however	conj	Ar.
@@ -2941,7 +2957,7 @@ ašt	there.is	v	Mac
 ata	flour	n
 atāri	part	Ar.
 atnī-	about	prep
-atu	you.SG	pron
+atu	you	pron
 atun	above	adv
 a-	come-	v	Mac
 aw-	come-	v
@@ -3047,6 +3063,7 @@ bustān	grove	n	Ar.
 by-	fear-	v
 b-	fear-	v
 bʕīd	far	adj	Ar.
+č-	say-	v
 čanč-	next.to	prep
 čar-	hide-	v
 čin-	cut-	v
@@ -3059,12 +3076,16 @@ dabāba	tank	n	Ar.
 dabāyiḥ	slaughtered.animals	n	Ar.
 dabbirk-	organise/manage-	v	Ar.
 dadi	grandmother	n
+dafr	paw	n
+dafr-	paw	n
 dakātre	doctors	n	Ar.
 dakkākīne	shops	n	Ar.
 danab	tail	n	Ar.
+danab-	tail	n	Ar.
 danānīr	dinars	n	Ar.
 dari	place	n	Kurd.
 dar	place	n	Kurd.
+dary	place	n	Kurd.
 deri	place	n	Kurd.
 der	place	n	Kurd.
 daw-	dance	v
@@ -3117,6 +3138,7 @@ duɣri	immediately/straight	adv	Ar.
 dukkān	shop	n	Ar.
 dusara	black	adj
 dusar-	black-	adj
+dʕr-	plough-	v	Ar.
 ḍallo	stay/keep	v aux	Ar.
 ḍaman	insurance	n	Ar.
 ḍanḍ	tooth	n
@@ -3165,11 +3187,17 @@ džuw	louse	n
 džuwir	woman	n
 džuwr	woman	n
 ehe	these.pl	pron
+eh-	become-	v
 ekak	one.M	pron
 eme	we	pron
 eran	these.OBL.PL	pron
 eras	this.OBL.M	pron
+erhēnà	here
+erhōna	there
+ēmŭɣar	cave
+ē	this
 f-	hit-	v
+fe-	hit-	v
 fēr-	hit-	v
 fē-	hit-	v
 fā-	hit-	v
@@ -3178,12 +3206,15 @@ fadž'a	suddenly	adv	Ar.
 fakkirho-	think-	v	Ar.
 fall	sack	n
 fallitk-	release-	v	Ar.
+falit-	escape-	v	Ar.
 fardžik-	show-	v	Ar.
 farn	oven	n	Ar.
 farraḥkar-	rejoice-	v	Ar.
 farridžk-	watch-	to show	v	Ar.
 farša	mattress	n	Ar.
 farwa	fur	n	Ar.
+farw	fur	n	Ar.
+farw-	fur	n	Ar.
 faržīk-	show-	v	Ar.
 fatra	period	n	Ar.
 fauran	immediately	adv	Ar.
@@ -3227,6 +3258,7 @@ gorwi	cow	n
 gorw	cow	n
 gōrw	cow	n
 gōrū	cow	n	Mac
+gōru	cow	n	Mac
 grawara	head.man	n	Kurd.
 grēfk-	sing-	v
 gulda	sweet	adj
@@ -3254,6 +3286,7 @@ guzel-	good/true-	adj	Turk.
 ɣul	ghoul/beast	n	Ar.
 ɣurfe	room	n	Ar.
 ɣusk-	stab-	v	Ar.
+hà	PART
 hada	PART	Ar.
 hàdi	PART	Ar.
 hawā	air	n	Ar.
@@ -3263,6 +3296,7 @@ hdžimk-	attack-	v	Ar.
 hēk	like.this	adv	Ar.
 hessaʕ	now	adv	Ar.
 hassaʕ	now	adv	Ar.
+hasan	Hasan	Ar.
 heyka	PART	Ar.
 hindar	here	adv
 hnēn	here	adv
@@ -3312,6 +3346,10 @@ hundar	there	adv
 ḥižr	lap	n	Ar.
 ḥkumk-	sentence-	v	Ar.
 ḥsāb	expense	n	Ar.
+ḥruṭ-	plough	v	Ar.
+ḥruṭ	plough	v	Ar.
+ḥirt-	plough	v	Ar.
+ḥirt	plough	v	Ar.
 ḥsubk-	calculate-	n	Ar.
 ḥṣud	harvest	n	Ar.
 ḥšur	cramp	n	Ar.
@@ -3323,13 +3361,14 @@ hundar	there	adv
 ḥurr	free	adj	Ar.
 idž	spirit	n	Ar.
 ihi	this.F	pron
+iḥ-	become-	v	Ar.
 iḥmarrahr-	become.red-	v	Ar.
 ihni	so.like.this	adv
 iḥṣa’	census	n	Ar.
 iḥtallahr-	occupy-	v	Ar.
 iḥtifilo-	celebrate-	v	Ar.
 iḥtirām	respect	n	Ar.
-ikak	one.F	pron
+ikak	one	pron
 yikàk	one	pron	Mac
 iki	eye	n
 illa	except	prep	Ar.
@@ -3379,6 +3418,7 @@ kamk-	work-	v
 kan	ear	n
 kān	who/which/was	pron/v.aux	/Ar.
 kar-	do-	v
+kar	do	v
 karamakē	please	adv	Kurd.
 karīm	generous	adj	Ar.
 kart	card	n	Ar.
@@ -3424,9 +3464,11 @@ krāde	Kurds	n	Ar.
 krēn	where	pron
 kšal-	pull-	v
 ktibk-	write-	v	Ar.
+ktāf	shoulder	n	Ar.
 ktīr	Christian	n
 kubāy	cup	n	Ar.
 kull	every	quant	Ar.
+kumn-	eat-	v	Mac.
 kundare	shoes	n	Ar.
 kurdī	Kurd	n	Ar.
 kuri	house	n
@@ -3489,7 +3531,7 @@ mām	paternal.uncle	n	Kurd.
 māmi	paternal.aunt	n	Kurd.
 mamluḥ	salted	adj	Ar.
 mamnūʕ	forbidden	adj	Ar.
-man-	leave-	v
+man-	stay/leave-	v
 mana	bread	n
 manāzir	scenes	n	Ar.
 manaʕk-	prevent-	v	Ar.
@@ -3517,6 +3559,7 @@ masalan	for.example	adv	Ar.
 mašɣūl	busy	adj	Ar.
 masi	meat	n
 māsy	meat	n
+māsy-	meat	n
 mās	meat	n
 māsi	meat	n
 maṣīr	destiny	n	Ar.
@@ -3543,9 +3586,10 @@ min	from	prep	Ar.
 min-	hold-	v
 mīn-	hold-	v	Mac
 minaw-	cause.to.take-	v
+mind-	stand-	v
 mindir-	stand-	v
 mindirš-	stand-	v
-mindž 	from	prep	Ar.
+mindž 	in	prep	Ar.
 minēn	here	adv
 minɣēr	without	prep	Ar.
 minšān	for	prep	conj	Ar.
@@ -3560,6 +3604,7 @@ mištird-	kiss-	v
 mišta	ill	adj
 mištwāy	illness	n
 miʕād	appointment	n	Ar.
+mīnd-	stay-	v
 mlāye	chador	n	Ar.
 mōsam	season	n
 moz	bananas	n	Ar.
@@ -3578,6 +3623,7 @@ mutardžim	translator	n	Ar.
 mutbax	kitchen	n	Ar.
 muṭur	urine	n
 muxtār	mayor	n	Ar.
+mŭɣar	cave	n	Mac
 mwaẓẓaf	employee	n	Ar.
 mʕalme	teacher	n	Ar.
 na	NEG	part
@@ -3585,6 +3631,7 @@ nāblis	Nablus	n	Ar.
 naḍḍifk-	clean-	v	Ar.
 naddimk-	regret-	v	Ar.
 nadīk-	call-	v	Ar.
+nadi-	call-	v	Ar.
 nafar	person	n	Kurd.
 nām	name	n
 nan-	bring-	v
@@ -3612,8 +3659,11 @@ nigr-	enter-	v
 nig-	enter-	v
 nīm	half	num	Pers.
 nimr	panther	n	Ar.
+nimr-	panther	n	Ar.
 nimir	panther	n	Ar.
+nimir-	panther	n	Ar.
 nimer	panther	n	Ar.
+nimer-	panther	n	Ar.
 ningaw-	take- in	v
 niswān	women	n	Ar.
 nkī-	at/by0	prep
@@ -3621,6 +3671,7 @@ nohra	red/English	adj
 nohri	tomato	n
 nohr-	red-	adj
 nqulahr-	move-	v	Ar.
+nṭaḥ-	strike-	v	Ar.
 ora-	that.OBL	pron
 or-	that.OBL	pron
 ošt	lip	n
@@ -3630,6 +3681,8 @@ pandžan	they	pron
 pandžī	he/she	pron
 pandži	he/she	pron
 pani	water	n
+pany	water	n
+pany-	water	n
 bāni	water	n
 bāny	water	n
 bāny-	water	n
@@ -3660,7 +3713,12 @@ pīr-	drink-	v
 pī	drink	v
 pī-	drink-	v
 q-	eat-	v
+qa-	eat-	v	Mac
 qà-	eat-	v	Mac
+qā-	eat-	v	Mac
+qàrw	eat	v	Mac
+qār-	eat-	v	Mac
+qār	eat	v	Mac
 qēr-	eat-	v
 qē-	eat-	v
 qēy-	eat-	v
@@ -3668,7 +3726,9 @@ qabel	before	prep	Ar.
 qabīla	tribe	n	Ar.
 qabr	grave	n	Ar.
 qaddēš	how.much	pron	Ar.
+qaddima-	push-	v	Ar.
 qādi	judge	n	Ar.
+qaf	paw	n	Ar.
 qaft-	steal-	v
 qaftinna	thief	n
 qahwa	coffee	n	Ar.
@@ -3681,7 +3741,8 @@ qamīṣ	shirt	n	Ar.
 qandi	throat	n
 qāqa	raven	n	Ar.
 qar	donkey	n
-qarā'ibe	relatives	family	n	Ar.
+qarā'ibe	relatives	n	Ar.
+qarāib	relatives	n	Ar.
 qarn	horn	n	Ar.
 qarwa	bitter	adj
 qarw-	bitter	adj.
@@ -3703,6 +3764,7 @@ qrare	Jordan	n
 qrar	Bedouin	n
 qrar-	Bedouin	n
 qrik-	read-	v	Ar.
+qrūn	horns	v	Ar.
 qumn-	eat-	v	
 qēr-	eat-	v
 qumna	eat	v
@@ -3715,6 +3777,7 @@ rašt-	arrive-	v
 rasr-	arrive-	v
 ratl	pound	n	Ar.
 raw-	travel-	v
+rawàḥ-	go-	v	Ar.
 rawwaḥahr-	leave-	v	Ar.
 rawwaḥk-	send.away-	v	Ar.
 rɔw-	weep-	v
@@ -3793,8 +3856,8 @@ sūq	market	n	Ar.
 ṣnoṭa	dog	n
 ṣrifk-	spend-	v	Ar.
 ṣūmk-	fast-	v	Ar.
-š-	speak-	v
-šird-	speak-	v
+š-	say-	v
+šird-	say-	v
 štrik-	buy-	v	Ar.
 šrik-	buy-	v	Ar.
 štri-	buy-	v	Ar.
@@ -3802,6 +3865,7 @@ sūq	market	n	Ar.
 šabābīk	windows	n	Ar.
 šahāda	certificate	n	Ar.
 šał	well/waterhole	n	Kurd.
+šāł-	well/waterhole	n	Kurd.
 šām	Syria	n	Ar.
 šamāl	North	n	Ar.
 šanda	bad	adj
@@ -3864,8 +3928,8 @@ sit-īy-a	sleep.PFV-3SG.F-REM
 sit-ēn-a	sleep.PFV-1PL-REM
 sit-ēs-a	sleep.PFV-2PL-REM
 sit-ēd-a	sleep.PFV-3PL-REM
-šw-	speak-	v
-šird-	speak-	v
+šw-	say-	v
+šird-	say-	v
 t-	put-	v
 tird-	put-	v
 talataʕš	thirteen	num	Ar.
@@ -3897,6 +3961,7 @@ thimk-	accuse-	v	Ar.
 tiknaw-	hurt-	v
 tilla	big	adj
 till-	big-	adj
+tillà-	grow-	v	Mac
 tirsala	thirsty	adj
 tirsala-	thirsty-	adj
 tisʕa	nine	num	Ar.
@@ -3905,6 +3970,8 @@ tmali	soldier	n
 tmaliy	soldier	n
 tnaʕš	twelve	num	Ar.
 tošahr-	wander-	v	Ar.
+tōr	ox
+tōr-	ox
 trāb	dust	n	Ar.
 trombil	car	n	Ar.
 tundžar	pot	n	Ar.
@@ -3912,6 +3979,7 @@ turdžman	translator	n	Ar.
 turki	Turkish	n	Ar.
 tuxxk-	shoot-	v	Ar.
 tw-	put-	v
+tīr-	put-	v
 tird-	put-	v
 twādžidahr-	be.found-	v	Ar.
 tʕallimahr-	learn-	v	Ar.
@@ -3919,11 +3987,13 @@ tʕallimahr-	learn-	v	Ar.
 ṭaliq	divorce	n	Ar.
 ṭan	bed/mattress	n
 ṭarmabil	car	n	Ar.
-ṭaṭ	sun	n
+ṭaṭ	sun/Arab	n
+ṭàṭ sun/Arab	n
 ṭāṭ	Arab/villager	n
 ṭayyeb	good	part	Ar.
 ṭēr	bird	n	Ar.
 ṭīrahr-	fly-	v	Ar.
+ṭlif-	release-	v	Ar.
 ū	and	conj	Ar.
 u	and	conj	Ar.
 ū’iši	and.so.on	part	Ar.
@@ -3981,9 +4051,12 @@ xamest	five	num	Ar.
 xamse	five	num	Ar.
 xamsīn	fifty	num	Ar.
 xar	bone	n
+xar-	bone	n
 xarbūš	tent	n	Ar.
 xārfān	sheep	n	Ar.
+xurfān	sheep	n	Ar.
 xarrifk-	speak-	v	Ar.
+xarrif-	speak-	v	Ar.
 xārūf	lamb	n	Ar.
 xašab	wood	n	Ar.
 xast	hand	arm	n
@@ -4002,6 +4075,7 @@ xlaw-	take.out-	v
 xo-	cook-	v
 xor-	cook-	v
 xol-	descend-	v
+xul-	descend-	v
 xuḍra	vegetables	n	Ar.
 xudwar	child	n
 xudžoti	yesterday	adv
@@ -4033,6 +4107,7 @@ zʕilahr-	be.angry/be.upset-	v	Ar.
 ẓābiṭ	officer	n	Ar.
 žbin	forehead	n	Ar.
 žild	skin	n	Ar.
+džild	skin	n	Ar.
 žirān	neighbour	n	Ar.
 žlik-	wash.up-	v	Ar.
 ʕa	at/on	prep	Ar.
@@ -4040,11 +4115,14 @@ zʕilahr-	be.angry/be.upset-	v	Ar.
 ʕabāye	gown	n	Ar.
 ʕala	on/to	prep	Ar.
 ʕallimahr-	learn-	v	Ar.
+ʕamma	PART	Ar.
 ʕand	at/among	prep	Ar.
 ʕankī-	about-	prep	Ar.
 ʕaql	mind	n	Ar.
 ʕarīs	bridegroom	n	Ar.
 ʕarūs	bride	n	Ar.
+ʕaṣfur	bird	n	Ar.
+ʕasfūr	bird	n	Ar.
 ʕašān	because	prep	Ar.
 ʕašan	because	prep	Ar.
 ʕaṣāy	wooden stick	n	Ar.
@@ -4062,48 +4140,48 @@ zʕilahr-	be.angry/be.upset-	v	Ar.
 ʕomr	age	n	Ar.
 ʕunṣūriyye	racism	n	Ar.
 ʕurus	wedding	n	Ar.
--ō-m-ta	-SG-1SG.OBL-DAT
--ō-r-ta	-SG-2SG.OBL-DAT
--ō-s-ta	-SG-3SG.OBL-DAT
--ō-man-ta	-SG-1PL.OBL-DAT
--ō-ran-ta	-SG-2PL.OBL-DAT
--ō-san-ta	-SG-3PL.OBL-DAT
--ō-m-ki	-SG-1SG.OBL-ABL
--ō-r-ki	-SG-2SG.OBL-ABL
--ō-s-ki	-SG-3SG.OBL-ABL
--ō-man-ki	-SG-1PL.OBL-ABL
--ō-ran-ki	-SG-2PL.OBL-ABL
--ō-san-ki	-SG-3PL.OBL-ABL
--ō-m-ma	-SG-1SG.OBL-LOC
--ō-r-ma	-SG-2SG.OBL-LOC
--ō-s-ma	-SG-3SG.OBL-LOC
--ō-man-ma	-SG-1PL.OBL-LOC
--ō-ran-ma	-SG-2PL.OBL-LOC
--ō-san-ma	-SG-3PL.OBL-LOC
--ō-m-ka	-SG-1SG.OBL-DAT
--ō-r-ka	-SG-2SG.OBL-DAT
--ō-s-ka	-SG-3SG.OBL-DAT
--ō-man-ka	-SG-1PL.OBL-DAT
--ō-ran-ka	-SG-2PL.OBL-DAT
--ō-san-ka	-SG-3PL.OBL-DAT
--ō-m-ke	-SG-1SG.OBL-BEN
--ō-r-ke	-SG-2SG.OBL-BEN
--ō-s-ke	-SG-3SG.OBL-BEN
--ō-man-ke	-SG-1PL.OBL-BEN
--ō-ran-ke	-SG-2PL.OBL-BEN
--ō-san-ke	-SG-3PL.OBL-BEN
+-ō-m-ta	-SG-1SG-DAT
+-ō-r-ta	-SG-2SG-DAT
+-ō-s-ta	-SG-3SG-DAT
+-ō-man-ta	-SG-1PL-DAT
+-ō-ran-ta	-SG-2PL-DAT
+-ō-san-ta	-SG-3PL-DAT
+-ō-m-ki	-SG-1SG-ABL
+-ō-r-ki	-SG-2SG-ABL
+-ō-s-ki	-SG-3SG-ABL
+-ō-man-ki	-SG-1PL-ABL
+-ō-ran-ki	-SG-2PL-ABL
+-ō-san-ki	-SG-3PL-ABL
+-ō-m-ma	-SG-1SG-LOC
+-ō-r-ma	-SG-2SG-LOC
+-ō-s-ma	-SG-3SG-LOC
+-ō-man-ma	-SG-1PL-LOC
+-ō-ran-ma	-SG-2PL-LOC
+-ō-san-ma	-SG-3PL-LOC
+-ō-m-ka	-SG-1SG-DAT
+-ō-r-ka	-SG-2SG-DAT
+-ō-s-ka	-SG-3SG-DAT
+-ō-man-ka	-SG-1PL-DAT
+-ō-ran-ka	-SG-2PL-DAT
+-ō-san-ka	-SG-3PL-DAT
+-ō-m-ke	-SG-1SG-BEN
+-ō-r-ke	-SG-2SG-BEN
+-ō-s-ke	-SG-3SG-BEN
+-ō-man-ke	-SG-1PL-BEN
+-ō-ran-ke	-SG-2PL-BEN
+-ō-san-ke	-SG-3PL-BEN
 ab-ōm-ke	for-1SG-BEN
 ab-ōr-ke	for-2SG-BEN
 ab-ōs-ke	for-3SG-BEN
 ab-ōm-ka	for-1SG-DAT	Mac
 ab-ōr-ka	for-2SG-DAT	Mac
 ab-ōs-ka	for-3SG-DAT	Mac
--ō-m-san	-SG-1SG.OBL-SOC
--ō-r-san	-SG-2SG.OBL-SOC
--ō-s-san	-SG-3SG.OBL-SOC
--ō-man-san	-SG-1PL.OBL-SOC
--ō-ran-san	-SG-2PL.OBL-SOC
--ō-san-san	-SG-3PL.OBL-SOC
+-ō-m-san	-SG-1SG-SOC
+-ō-r-san	-SG-2SG-SOC
+-ō-s-san	-SG-3SG-SOC
+-ō-man-san	-SG-1PL-SOC
+-ō-ran-san	-SG-2PL-SOC
+-ō-san-san	-SG-3PL-SOC
 bidd-ō	want-3SG.M
 -ō-m	-SG-1SG
 -ō-r	-SG-2SG
@@ -4900,48 +4978,48 @@ xōr-	cook-	v
 xōl-	descend-	v
 xudžōti	yesterday	adv
 ẓunnō 	think-	v	Ar.
--ŭ-m-ta	-SG-1SG.OBL-DAT
--ŭ-r-ta	-SG-2SG.OBL-DAT
--ŭ-s-ta	-SG-3SG.OBL-DAT
--ŭ-man-ta	-SG-1PL.OBL-DAT
--ŭ-ran-ta	-SG-2PL.OBL-DAT
--ŭ-san-ta	-SG-3PL.OBL-DAT
--ŭ-m-ki	-SG-1SG.OBL-ABL
--ŭ-r-ki	-SG-2SG.OBL-ABL
--ŭ-s-ki	-SG-3SG.OBL-ABL
--ŭ-man-ki	-SG-1PL.OBL-ABL
--ŭ-ran-ki	-SG-2PL.OBL-ABL
--ŭ-san-ki	-SG-3PL.OBL-ABL
--ŭ-m-ma	-SG-1SG.OBL-LOC
--ŭ-r-ma	-SG-2SG.OBL-LOC
--ŭ-s-ma	-SG-3SG.OBL-LOC
--ŭ-man-ma	-SG-1PL.OBL-LOC
--ŭ-ran-ma	-SG-2PL.OBL-LOC
--ŭ-san-ma	-SG-3PL.OBL-LOC
--ŭ-m-ka	-SG-1SG.OBL-DAT
--ŭ-r-ka	-SG-2SG.OBL-DAT
--ŭ-s-ka	-SG-3SG.OBL-DAT
--ŭ-man-ka	-SG-1PL.OBL-DAT
--ŭ-ran-ka	-SG-2PL.OBL-DAT
--ŭ-san-ka	-SG-3PL.OBL-DAT
--ŭ-m-ke	-SG-1SG.OBL-BEN
--ŭ-r-ke	-SG-2SG.OBL-BEN
--ŭ-s-ke	-SG-3SG.OBL-BEN
--ŭ-man-ke	-SG-1PL.OBL-BEN
--ŭ-ran-ke	-SG-2PL.OBL-BEN
--ŭ-san-ke	-SG-3PL.OBL-BEN
+-ŭ-m-ta	-SG-1SG-DAT
+-ŭ-r-ta	-SG-2SG-DAT
+-ŭ-s-ta	-SG-3SG-DAT
+-ŭ-man-ta	-SG-1PL-DAT
+-ŭ-ran-ta	-SG-2PL-DAT
+-ŭ-san-ta	-SG-3PL-DAT
+-ŭ-m-ki	-SG-1SG-ABL
+-ŭ-r-ki	-SG-2SG-ABL
+-ŭ-s-ki	-SG-3SG-ABL
+-ŭ-man-ki	-SG-1PL-ABL
+-ŭ-ran-ki	-SG-2PL-ABL
+-ŭ-san-ki	-SG-3PL-ABL
+-ŭ-m-ma	-SG-1SG-LOC
+-ŭ-r-ma	-SG-2SG-LOC
+-ŭ-s-ma	-SG-3SG-LOC
+-ŭ-man-ma	-SG-1PL-LOC
+-ŭ-ran-ma	-SG-2PL-LOC
+-ŭ-san-ma	-SG-3PL-LOC
+-ŭ-m-ka	-SG-1SG-DAT
+-ŭ-r-ka	-SG-2SG-DAT
+-ŭ-s-ka	-SG-3SG-DAT
+-ŭ-man-ka	-SG-1PL-DAT
+-ŭ-ran-ka	-SG-2PL-DAT
+-ŭ-san-ka	-SG-3PL-DAT
+-ŭ-m-ke	-SG-1SG-BEN
+-ŭ-r-ke	-SG-2SG-BEN
+-ŭ-s-ke	-SG-3SG-BEN
+-ŭ-man-ke	-SG-1PL-BEN
+-ŭ-ran-ke	-SG-2PL-BEN
+-ŭ-san-ke	-SG-3PL-BEN
 ab-ŭm-ke	for-1SG-BEN
 ab-ŭr-ke	for-2SG-BEN
 ab-ŭs-ke	for-3SG-BEN
 ab-ŭm-ka	for-1SG-DAT	Mac
 ab-ŭr-ka	for-2SG-DAT	Mac
 ab-ŭs-ka	for-3SG-DAT	Mac
--ŭ-m-san	-SG-1SG.OBL-SOC
--ŭ-r-san	-SG-2SG.OBL-SOC
--ŭ-s-san	-SG-3SG.OBL-SOC
--ŭ-man-san	-SG-1PL.OBL-SOC
--ŭ-ran-san	-SG-2PL.OBL-SOC
--ŭ-san-san	-SG-3PL.OBL-SOC
+-ŭ-m-san	-SG-1SG-SOC
+-ŭ-r-san	-SG-2SG-SOC
+-ŭ-s-san	-SG-3SG-SOC
+-ŭ-man-san	-SG-1PL-SOC
+-ŭ-ran-san	-SG-2PL-SOC
+-ŭ-san-san	-SG-3PL-SOC
 bidd-ŭ	want-3SG.M
 -ŭ-m	-SG-1SG
 -ŭ-r	-SG-2SG
@@ -5887,81 +5965,81 @@ xŭdžŭti	yesterday	adv
 -y-à-tà	-OBL.F-DAT
 -àn-tà	-OBL.PL-DAT
 -y-àn-tà	-F-OBL.PL-DAT
--im-tà	-1SG.OBL-DAT
--ir-tà	-2SG.OBL-DAT
--is-tà	-3SG.OBL-DAT
--o-m-tà	-SG-1SG.OBL-DAT
--o-r-tà	-SG-2SG.OBL-DAT
--o-s-tà	-SG-3SG.OBL-DAT
--ē-m-tà	-PL-1SG.OBL-DAT
--ē-r-tà	-PL-2SG.OBL-DAT
--ē-s-tà	-PL-3SG.OBL-DAT
--o-màn-tà	-SG-1PL.OBL-DAT
--o-ràn-tà	-SG-2PL.OBL-DAT
--o-sàn-tà	-SG-3PL.OBL-DAT
--ē-màn-tà	-PL-1PL.OBL-DAT
--ē-ràn-tà	-PL-2PL.OBL-DAT
--ē-sàn-tà	-PL-3PL.OBL-DAT
+-im-tà	-1SG-DAT
+-ir-tà	-2SG-DAT
+-is-tà	-3SG-DAT
+-o-m-tà	-SG-1SG-DAT
+-o-r-tà	-SG-2SG-DAT
+-o-s-tà	-SG-3SG-DAT
+-ē-m-tà	-PL-1SG-DAT
+-ē-r-tà	-PL-2SG-DAT
+-ē-s-tà	-PL-3SG-DAT
+-o-màn-tà	-SG-1PL-DAT
+-o-ràn-tà	-SG-2PL-DAT
+-o-sàn-tà	-SG-3PL-DAT
+-ē-màn-tà	-PL-1PL-DAT
+-ē-ràn-tà	-PL-2PL-DAT
+-ē-sàn-tà	-PL-3PL-DAT
 -às-ki	-OBL.M-ABL
 -y-à-ki	-OBL.F-ABL
 -àn-ki	-OBL.PL-ABL
 -y-àn-ki	-F-OBL.PL-ABL
--o-màn-ki	-SG-1PL.OBL-ABL
--o-ràn-ki	-SG-2PL.OBL-ABL
--o-sàn-ki	-SG-3PL.OBL-ABL
--ē-màn-ki	-PL-1PL.OBL-ABL
--ē-ràn-ki	-PL-2PL.OBL-ABL
--ē-sàn-ki	-PL-3PL.OBL-ABL
+-o-màn-ki	-SG-1PL-ABL
+-o-ràn-ki	-SG-2PL-ABL
+-o-sàn-ki	-SG-3PL-ABL
+-ē-màn-ki	-PL-1PL-ABL
+-ē-ràn-ki	-PL-2PL-ABL
+-ē-sàn-ki	-PL-3PL-ABL
 -mà	-LOC
 -às-mà	-OBL.M-LOC
 -y-à-mà	-OBL.F-LOC
 -àn-mà	-OBL.PL-LOC
 -y-àn-mà	-F-OBL.PL-LOC
--im-mà	-1SG.OBL-LOC
--ir-mà	-2SG.OBL-LOC
--is-mà	-3SG.OBL-LOC
--o-m-mà	-SG-1SG.OBL-LOC
--o-r-mà	-SG-2SG.OBL-LOC
--o-s-mà	-SG-3SG.OBL-LOC
--ē-m-mà	-PL-1SG.OBL-LOC
--ē-r-mà	-PL-2SG.OBL-LOC
--ē-s-mà	-PL-3SG.OBL-LOC
--o-màn-mà	-SG-1PL.OBL-LOC
--o-ràn-mà	-SG-2PL.OBL-LOC
--o-sàn-mà	-SG-3PL.OBL-LOC
--ē-màn-mà	-PL-1PL.OBL-LOC
--ē-ràn-mà	-PL-2PL.OBL-LOC
--ē-sàn-mà	-PL-3PL.OBL-LOC
+-im-mà	-1SG-LOC
+-ir-mà	-2SG-LOC
+-is-mà	-3SG-LOC
+-o-m-mà	-SG-1SG-LOC
+-o-r-mà	-SG-2SG-LOC
+-o-s-mà	-SG-3SG-LOC
+-ē-m-mà	-PL-1SG-LOC
+-ē-r-mà	-PL-2SG-LOC
+-ē-s-mà	-PL-3SG-LOC
+-o-màn-mà	-SG-1PL-LOC
+-o-ràn-mà	-SG-2PL-LOC
+-o-sàn-mà	-SG-3PL-LOC
+-ē-màn-mà	-PL-1PL-LOC
+-ē-ràn-mà	-PL-2PL-LOC
+-ē-sàn-mà	-PL-3PL-LOC
 -kà	-DAT
 -às-kà	-OBL.M-DAT
 -y-à-kà	-F-OBL.F-DAT
 -àn-kà	-OBL.PL-DAT
 -y-àn-kà	-F-OBL.PL-DAT
--im-kà	-1SG.OBL-DAT
--ir-kà	-2SG.OBL-DAT
--is-kà	-3SG.OBL-DAT
--o-m-kà	-SG-1SG.OBL-DAT
--o-r-kà	-SG-2SG.OBL-DAT
--o-s-kà	-SG-3SG.OBL-DAT
--ē-m-kà	-PL-1SG.OBL-DAT
--ē-r-kà	-PL-2SG.OBL-DAT
--ē-s-kà	-PL-3SG.OBL-DAT
--o-màn-kà	-SG-1PL.OBL-DAT
--o-ràn-kà	-SG-2PL.OBL-DAT
--o-sàn-kà	-SG-3PL.OBL-DAT
--ē-màn-kà	-PL-1PL.OBL-DAT
--ē-ràn-kà	-PL-2PL.OBL-DAT
--ē-sàn-kà	-PL-3PL.OBL-DAT
+-im-kà	-1SG-DAT
+-ir-kà	-2SG-DAT
+-is-kà	-3SG-DAT
+-o-m-kà	-SG-1SG-DAT
+-o-r-kà	-SG-2SG-DAT
+-o-s-kà	-SG-3SG-DAT
+-ē-m-kà	-PL-1SG-DAT
+-ē-r-kà	-PL-2SG-DAT
+-ē-s-kà	-PL-3SG-DAT
+-o-màn-kà	-SG-1PL-DAT
+-o-ràn-kà	-SG-2PL-DAT
+-o-sàn-kà	-SG-3PL-DAT
+-ē-màn-kà	-PL-1PL-DAT
+-ē-ràn-kà	-PL-2PL-DAT
+-ē-sàn-kà	-PL-3PL-DAT
 -às-ke	-OBL.M-BEN
 -y-à-ke	-OBL.F-BEN
 -àn-ke	-OBL.PL-BEN
 -y-àn-ke	-F-OBL.PL-BEN
--o-màn-ke	-SG-1PL.OBL-BEN
--o-ràn-ke	-SG-2PL.OBL-BEN
--o-sàn-ke	-SG-3PL.OBL-BEN
--ē-màn-ke	-PL-1PL.OBL-BEN
--ē-ràn-ke	-PL-2PL.OBL-BEN
--ē-sàn-ke	-PL-3PL.OBL-BEN
+-o-màn-ke	-SG-1PL-BEN
+-o-ràn-ke	-SG-2PL-BEN
+-o-sàn-ke	-SG-3PL-BEN
+-ē-màn-ke	-PL-1PL-BEN
+-ē-ràn-ke	-PL-2PL-BEN
+-ē-sàn-ke	-PL-3PL-BEN
 àb-om-ke	for-1SG-BEN
 àb-or-ke	for-2SG-BEN
 àb-os-ke	for-3SG-BEN
@@ -5994,21 +6072,21 @@ xŭdžŭti	yesterday	adv
 -y-à-sàn	-OBL.F-SOC
 -àn-sàn	-OBL.PL-SOC
 -y-àn-sàn	-F-OBL.PL-SOC
--im-sàn	-1SG.OBL-SOC
--ir-sàn	-2SG.OBL-SOC
--is-sàn	-3SG.OBL-SOC
--o-m-sàn	-SG-1SG.OBL-SOC
--o-r-sàn	-SG-2SG.OBL-SOC
--o-s-sàn	-SG-3SG.OBL-SOC
--ē-m-sàn	-PL-1SG.OBL-SOC
--ē-r-sàn	-PL-2SG.OBL-SOC
--ē-s-sàn	-PL-3SG.OBL-SOC
--o-màn-sàn	-SG-1PL.OBL-SOC
--o-ràn-sàn	-SG-2PL.OBL-SOC
--o-sàn-sàn	-SG-3PL.OBL-SOC
--ē-màn-sàn	-PL-1PL.OBL-SOC
--ē-ràn-sàn	-PL-2PL.OBL-SOC
--ē-sàn-sàn	-PL-3PL.OBL-SOC
+-im-sàn	-1SG-SOC
+-ir-sàn	-2SG-SOC
+-is-sàn	-3SG-SOC
+-o-m-sàn	-SG-1SG-SOC
+-o-r-sàn	-SG-2SG-SOC
+-o-s-sàn	-SG-3SG-SOC
+-ē-m-sàn	-PL-1SG-SOC
+-ē-r-sàn	-PL-2SG-SOC
+-ē-s-sàn	-PL-3SG-SOC
+-o-màn-sàn	-SG-1PL-SOC
+-o-ràn-sàn	-SG-2PL-SOC
+-o-sàn-sàn	-SG-3PL-SOC
+-ē-màn-sàn	-PL-1PL-SOC
+-ē-ràn-sàn	-PL-2PL-SOC
+-ē-sàn-sàn	-PL-3PL-SOC
 -nà	-1PL
 bidd-àk	want-2SG.M
 -ē-màn	-PL-1PL
@@ -6026,15 +6104,15 @@ bidd-àk	want-2SG.M
 -màn	-1PL
 -ràn	-2PL
 -sàn	-3PL
-wàšī-m	SOC-1SG
-wàšī-r	SOC-2SG
-wàšī-s	SOC-3SG
-wàšī-màn	SOC-1PL
-wàšī-ràn	SOC-2PL
-wàšī-sàn	SOC-3PL
-wāšī-màn	SOC-1PL
-wāšī-ràn	SOC-2PL
-wāšī-sàn	SOC-3PL
+wàšī-m	with-1SG
+wàšī-r	with-2SG
+wàšī-s	with-3SG
+wàšī-màn	with-1PL
+wàšī-ràn	with-2PL
+wàšī-sàn	with-3PL
+wāšī-màn	with-1PL
+wāšī-ràn	with-2PL
+wāšī-sàn	with-3PL
 minkī-màn	ABL-1PL
 minkī-ràn	ABL-2PL
 minkī-sàn	ABL-3PL
@@ -6047,12 +6125,12 @@ minkī-sàn	ABL-3PL
 nkī-màn	LOC-1PL
 nkī-ràn	LOC-2PL
 nkī-sàn	LOC-3PL
-wàšī-m-i	SOC-1SG-PRED
-wàšī-r-i	SOC-2SG-PRED
-wàšī-s-i	SOC-3SG-PRED
-wàšī-màn-i	SOC-1PL-PRED
-wàšī-ràn-i	SOC-2PL-PRED
-wàšī-sàn-i	SOC-3PL-PRED
+wàšī-m-i	with-1SG-PRED
+wàšī-r-i	with-2SG-PRED
+wàšī-s-i	with-3SG-PRED
+wàšī-màn-i	with-1PL-PRED
+wàšī-ràn-i	with-2PL-PRED
+wàšī-sàn-i	with-3PL-PRED
 minkī-màn-i	ABL-1PL-PRED
 minkī-ràn-i	ABL-2PL-PRED
 minkī-sàn-i	ABL-3PL-PRED
@@ -6077,7 +6155,7 @@ nkī-sàn-i	LOC-3PL-PRED
 ʕànkī-màn-i	about-1PL-PRED
 ʕànkī-ràn-i	about-2PL-PRED
 ʕànkī-sàn-i	about-3PL-PRED
-mīndē-sàn	SOC-3PL
+mīndē-sàn	with-3PL
 er-às	DEM.PROX-OBL.M.SG
 er-à	DEM.PROX-OBL.F.SG
 er-àn	DEM.PROX-OBL.PL
@@ -7630,7 +7708,7 @@ bàqū	keep.3PL
 ḍàllēt-kū	keep-2PL
 ḍàll-hom	keep-3PL
 inn-àk	COMP-2SG.M
-àb-	for	prep
+àb-	on	prep
 àbàdàn	at.all	adv	Ar.
 àbṣàr	I.wonder	part	Ar.
 àbu	Abu	n	Ar.
@@ -7687,7 +7765,7 @@ inn-àk	COMP-2SG.M
 àtà	flour	n
 àtāri	part	Ar.
 àtnī-	about	prep
-àtu	you.SG	pron
+àtu	you	pron
 àtun	above	adv
 àw-	come-	v
 àwsà	dodgy	adj
@@ -7904,6 +7982,7 @@ indžànnàhr-	go.crazy-	v	Ar.
 indžàwizàhr-	get.married-	v	Ar.
 intàqimàhr-	take.revenge-	v	Ar.
 intàxxàhr-	be.shot-	v	Ar.
+intà-	pull-	v	Ar.
 iṣbàʕ	finger	n	Ar.
 istàwṭunàhr-	settle-	v	Ar.
 izà	if	conj	Ar.
@@ -7982,7 +8061,7 @@ màlik	king	n	Ar.
 màlyon	million	num	Ar.
 màmluḥ	salted	adj	Ar.
 màmnūʕ	forbidden	adj	Ar.
-màn-	leave-	v
+màn-	stay/leave-	v
 mànà	bread	n
 mànāzir	scenes	n	Ar.
 mànàʕk-	prevent-	v	Ar.
@@ -8032,6 +8111,7 @@ musāʕàde	help	n	Ar.
 mustàšfà	hospital	n	Ar.
 mutàrdžim	translator	n	Ar.
 mutbàx	kitchen	n	Ar.
+mūṭlif-	weary-	v
 mwàẓẓàf	employee	n	Ar.
 mʕàlme	teacher	n	Ar.
 nà	NEG	part
@@ -8123,6 +8203,7 @@ sàł	rice	n	Kurd.
 sàllik-	pray-	v	Ar.
 sàmàk	fish	n	Ar.
 sàp	snake	n
+sàui	master	n
 sàwà	together	adv	Ar.
 sàyyàk	one.hundred	num
 sàyyārà	car	n	Ar.
@@ -8201,7 +8282,7 @@ tʕàllimàhr-	learn-	v	Ar.
 ṭàliq	divorce	n	Ar.
 ṭàn	bed/mattress	n
 ṭàrmàbil	car	n	Ar.
-ṭàṭ	sun	n
+ṭàṭ	sun/Arab	n
 ṭàyyeb	good	part	Ar.
 ṭīràhr-	fly-	v	Ar.
 uràti	tomorrow	adv
@@ -8252,6 +8333,7 @@ xlàw-	take.out-	v
 xuḍrà	vegetables	n	Ar.
 xudwàr	child	n
 xuyà	God	n	Kurd.
+yà	PART
 yàbàyēy	PART	Ar.
 yàłłà	PART	Ar.
 yàʕni	that.is	Ar.
@@ -8282,44 +8364,45 @@ zʕilàhr-	be.angry/be.upset-	v	Ar.
 ʕàšrīn	twenty	num	Ar.
 ʕàṭšān	thirsty	adj	Ar.
 ʕàzifk-	play.music-	v	Ar.
+ʕineb	grapes	n	Ar.
 ʕisàhr-	live-	v	Ar.
 ʕīš-	live-	v	Ar.
--ō-m-tà	-SG-1SG.OBL-DAT
--ō-r-tà	-SG-2SG.OBL-DAT
--ō-s-tà	-SG-3SG.OBL-DAT
--ō-màn-tà	-SG-1PL.OBL-DAT
--ō-ràn-tà	-SG-2PL.OBL-DAT
--ō-sàn-tà	-SG-3PL.OBL-DAT
--ō-màn-ki	-SG-1PL.OBL-ABL
--ō-ràn-ki	-SG-2PL.OBL-ABL
--ō-sàn-ki	-SG-3PL.OBL-ABL
--ō-m-mà	-SG-1SG.OBL-LOC
--ō-r-mà	-SG-2SG.OBL-LOC
--ō-s-mà	-SG-3SG.OBL-LOC
--ō-màn-mà	-SG-1PL.OBL-LOC
--ō-ràn-mà	-SG-2PL.OBL-LOC
--ō-sàn-mà	-SG-3PL.OBL-LOC
--ō-m-kà	-SG-1SG.OBL-DAT
--ō-r-kà	-SG-2SG.OBL-DAT
--ō-s-kà	-SG-3SG.OBL-DAT
--ō-màn-kà	-SG-1PL.OBL-DAT
--ō-ràn-kà	-SG-2PL.OBL-DAT
--ō-sàn-kà	-SG-3PL.OBL-DAT
--ō-màn-ke	-SG-1PL.OBL-BEN
--ō-ràn-ke	-SG-2PL.OBL-BEN
--ō-sàn-ke	-SG-3PL.OBL-BEN
+-ō-m-tà	-SG-1SG-DAT
+-ō-r-tà	-SG-2SG-DAT
+-ō-s-tà	-SG-3SG-DAT
+-ō-màn-tà	-SG-1PL-DAT
+-ō-ràn-tà	-SG-2PL-DAT
+-ō-sàn-tà	-SG-3PL-DAT
+-ō-màn-ki	-SG-1PL-ABL
+-ō-ràn-ki	-SG-2PL-ABL
+-ō-sàn-ki	-SG-3PL-ABL
+-ō-m-mà	-SG-1SG-LOC
+-ō-r-mà	-SG-2SG-LOC
+-ō-s-mà	-SG-3SG-LOC
+-ō-màn-mà	-SG-1PL-LOC
+-ō-ràn-mà	-SG-2PL-LOC
+-ō-sàn-mà	-SG-3PL-LOC
+-ō-m-kà	-SG-1SG-DAT
+-ō-r-kà	-SG-2SG-DAT
+-ō-s-kà	-SG-3SG-DAT
+-ō-màn-kà	-SG-1PL-DAT
+-ō-ràn-kà	-SG-2PL-DAT
+-ō-sàn-kà	-SG-3PL-DAT
+-ō-màn-ke	-SG-1PL-BEN
+-ō-ràn-ke	-SG-2PL-BEN
+-ō-sàn-ke	-SG-3PL-BEN
 àb-ōm-ke	for-1SG-BEN
 àb-ōr-ke	for-2SG-BEN
 àb-ōs-ke	for-3SG-BEN
 àb-ōm-kà	for-1SG-DAT	Mac
 àb-ōr-kà	for-2SG-DAT	Mac
 àb-ōs-kà	for-3SG-DAT	Mac
--ō-m-sàn	-SG-1SG.OBL-SOC
--ō-r-sàn	-SG-2SG.OBL-SOC
--ō-s-sàn	-SG-3SG.OBL-SOC
--ō-màn-sàn	-SG-1PL.OBL-SOC
--ō-ràn-sàn	-SG-2PL.OBL-SOC
--ō-sàn-sàn	-SG-3PL.OBL-SOC
+-ō-m-sàn	-SG-1SG-SOC
+-ō-r-sàn	-SG-2SG-SOC
+-ō-s-sàn	-SG-3SG-SOC
+-ō-màn-sàn	-SG-1PL-SOC
+-ō-ràn-sàn	-SG-2PL-SOC
+-ō-sàn-sàn	-SG-3PL-SOC
 -ō-màn	-SG-1PL
 -ō-ràn	-SG-2PL
 -ō-sàn	-SG-3PL
@@ -8854,42 +8937,42 @@ stànnhō-	wait-	v	Ar.
 ṣnōṭà	dog	n
 tōšàhr-	wander-	v	Ar.
 wàqtōs	then	adv	Ar.
--ŭ-m-tà	-SG-1SG.OBL-DAT
--ŭ-r-tà	-SG-2SG.OBL-DAT
--ŭ-s-tà	-SG-3SG.OBL-DAT
--ŭ-màn-tà	-SG-1PL.OBL-DAT
--ŭ-ràn-tà	-SG-2PL.OBL-DAT
--ŭ-sàn-tà	-SG-3PL.OBL-DAT
--ŭ-màn-ki	-SG-1PL.OBL-ABL
--ŭ-ràn-ki	-SG-2PL.OBL-ABL
--ŭ-sàn-ki	-SG-3PL.OBL-ABL
--ŭ-m-mà	-SG-1SG.OBL-LOC
--ŭ-r-mà	-SG-2SG.OBL-LOC
--ŭ-s-mà	-SG-3SG.OBL-LOC
--ŭ-màn-mà	-SG-1PL.OBL-LOC
--ŭ-ràn-mà	-SG-2PL.OBL-LOC
--ŭ-sàn-mà	-SG-3PL.OBL-LOC
--ŭ-m-kà	-SG-1SG.OBL-DAT
--ŭ-r-kà	-SG-2SG.OBL-DAT
--ŭ-s-kà	-SG-3SG.OBL-DAT
--ŭ-màn-kà	-SG-1PL.OBL-DAT
--ŭ-ràn-kà	-SG-2PL.OBL-DAT
--ŭ-sàn-kà	-SG-3PL.OBL-DAT
--ŭ-màn-ke	-SG-1PL.OBL-BEN
--ŭ-ràn-ke	-SG-2PL.OBL-BEN
--ŭ-sàn-ke	-SG-3PL.OBL-BEN
+-ŭ-m-tà	-SG-1SG-DAT
+-ŭ-r-tà	-SG-2SG-DAT
+-ŭ-s-tà	-SG-3SG-DAT
+-ŭ-màn-tà	-SG-1PL-DAT
+-ŭ-ràn-tà	-SG-2PL-DAT
+-ŭ-sàn-tà	-SG-3PL-DAT
+-ŭ-màn-ki	-SG-1PL-ABL
+-ŭ-ràn-ki	-SG-2PL-ABL
+-ŭ-sàn-ki	-SG-3PL-ABL
+-ŭ-m-mà	-SG-1SG-LOC
+-ŭ-r-mà	-SG-2SG-LOC
+-ŭ-s-mà	-SG-3SG-LOC
+-ŭ-màn-mà	-SG-1PL-LOC
+-ŭ-ràn-mà	-SG-2PL-LOC
+-ŭ-sàn-mà	-SG-3PL-LOC
+-ŭ-m-kà	-SG-1SG-DAT
+-ŭ-r-kà	-SG-2SG-DAT
+-ŭ-s-kà	-SG-3SG-DAT
+-ŭ-màn-kà	-SG-1PL-DAT
+-ŭ-ràn-kà	-SG-2PL-DAT
+-ŭ-sàn-kà	-SG-3PL-DAT
+-ŭ-màn-ke	-SG-1PL-BEN
+-ŭ-ràn-ke	-SG-2PL-BEN
+-ŭ-sàn-ke	-SG-3PL-BEN
 àb-ŭm-ke	for-1SG-BEN
 àb-ŭr-ke	for-2SG-BEN
 àb-ŭs-ke	for-3SG-BEN
 àb-ŭm-kà	for-1SG-DAT	Mac
 àb-ŭr-kà	for-2SG-DAT	Mac
 àb-ŭs-kà	for-3SG-DAT	Mac
--ŭ-m-sàn	-SG-1SG.OBL-SOC
--ŭ-r-sàn	-SG-2SG.OBL-SOC
--ŭ-s-sàn	-SG-3SG.OBL-SOC
--ŭ-màn-sàn	-SG-1PL.OBL-SOC
--ŭ-ràn-sàn	-SG-2PL.OBL-SOC
--ŭ-sàn-sàn	-SG-3PL.OBL-SOC
+-ŭ-m-sàn	-SG-1SG-SOC
+-ŭ-r-sàn	-SG-2SG-SOC
+-ŭ-s-sàn	-SG-3SG-SOC
+-ŭ-màn-sàn	-SG-1PL-SOC
+-ŭ-ràn-sàn	-SG-2PL-SOC
+-ŭ-sàn-sàn	-SG-3PL-SOC
 -ŭ-màn	-SG-1PL
 -ŭ-ràn	-SG-2PL
 -ŭ-sàn	-SG-3PL
@@ -9477,48 +9560,48 @@ ab-ūr-kara	for-2SG-BEN	Mac
 ab-ūs-kara	for-3SG-BEN	Mac
 ab-ūs-kara	for-3SG-BEN	Mac
 ūhū	that	pron	Mac
--ū-m-ta	-SG-1SG.OBL-DAT
--ū-r-ta	-SG-2SG.OBL-DAT
--ū-s-ta	-SG-3SG.OBL-DAT
--ū-man-ta	-SG-1PL.OBL-DAT
--ū-ran-ta	-SG-2PL.OBL-DAT
--ū-san-ta	-SG-3PL.OBL-DAT
--ū-m-ki	-SG-1SG.OBL-ABL
--ū-r-ki	-SG-2SG.OBL-ABL
--ū-s-ki	-SG-3SG.OBL-ABL
--ū-man-ki	-SG-1PL.OBL-ABL
--ū-ran-ki	-SG-2PL.OBL-ABL
--ū-san-ki	-SG-3PL.OBL-ABL
--ū-m-ma	-SG-1SG.OBL-LOC
--ū-r-ma	-SG-2SG.OBL-LOC
--ū-s-ma	-SG-3SG.OBL-LOC
--ū-man-ma	-SG-1PL.OBL-LOC
--ū-ran-ma	-SG-2PL.OBL-LOC
--ū-san-ma	-SG-3PL.OBL-LOC
--ū-m-ka	-SG-1SG.OBL-DAT
--ū-r-ka	-SG-2SG.OBL-DAT
--ū-s-ka	-SG-3SG.OBL-DAT
--ū-man-ka	-SG-1PL.OBL-DAT
--ū-ran-ka	-SG-2PL.OBL-DAT
--ū-san-ka	-SG-3PL.OBL-DAT
--ū-m-ke	-SG-1SG.OBL-BEN
--ū-r-ke	-SG-2SG.OBL-BEN
--ū-s-ke	-SG-3SG.OBL-BEN
--ū-man-ke	-SG-1PL.OBL-BEN
--ū-ran-ke	-SG-2PL.OBL-BEN
--ū-san-ke	-SG-3PL.OBL-BEN
+-ū-m-ta	-SG-1SG-DAT
+-ū-r-ta	-SG-2SG-DAT
+-ū-s-ta	-SG-3SG-DAT
+-ū-man-ta	-SG-1PL-DAT
+-ū-ran-ta	-SG-2PL-DAT
+-ū-san-ta	-SG-3PL-DAT
+-ū-m-ki	-SG-1SG-ABL
+-ū-r-ki	-SG-2SG-ABL
+-ū-s-ki	-SG-3SG-ABL
+-ū-man-ki	-SG-1PL-ABL
+-ū-ran-ki	-SG-2PL-ABL
+-ū-san-ki	-SG-3PL-ABL
+-ū-m-ma	-SG-1SG-LOC
+-ū-r-ma	-SG-2SG-LOC
+-ū-s-ma	-SG-3SG-LOC
+-ū-man-ma	-SG-1PL-LOC
+-ū-ran-ma	-SG-2PL-LOC
+-ū-san-ma	-SG-3PL-LOC
+-ū-m-ka	-SG-1SG-DAT
+-ū-r-ka	-SG-2SG-DAT
+-ū-s-ka	-SG-3SG-DAT
+-ū-man-ka	-SG-1PL-DAT
+-ū-ran-ka	-SG-2PL-DAT
+-ū-san-ka	-SG-3PL-DAT
+-ū-m-ke	-SG-1SG-BEN
+-ū-r-ke	-SG-2SG-BEN
+-ū-s-ke	-SG-3SG-BEN
+-ū-man-ke	-SG-1PL-BEN
+-ū-ran-ke	-SG-2PL-BEN
+-ū-san-ke	-SG-3PL-BEN
 ab-ūm-ke	for-1SG-BEN
 ab-ūr-ke	for-2SG-BEN
 ab-ūs-ke	for-3SG-BEN
 ab-ūm-ka	for-1SG-DAT	Mac
 ab-ūr-ka	for-2SG-DAT	Mac
 ab-ūs-ka	for-3SG-DAT	Mac
--ū-m-san	-SG-1SG.OBL-SOC
--ū-r-san	-SG-2SG.OBL-SOC
--ū-s-san	-SG-3SG.OBL-SOC
--ū-man-san	-SG-1PL.OBL-SOC
--ū-ran-san	-SG-2PL.OBL-SOC
--ū-san-san	-SG-3PL.OBL-SOC
+-ū-m-san	-SG-1SG-SOC
+-ū-r-san	-SG-2SG-SOC
+-ū-s-san	-SG-3SG-SOC
+-ū-man-san	-SG-1PL-SOC
+-ū-ran-san	-SG-2PL-SOC
+-ū-san-san	-SG-3PL-SOC
 bidd-ū	want-3SG.M
 -ū-m	-SG-1SG
 -ū-r	-SG-2SG
@@ -10333,7 +10416,7 @@ xallī-kūm	leave/let-2PL
 inn-kūm	COMP-2PL
 abū	Abu	n	Ar.
 ambūlans	ambulance	n	Ar.
-atū	you.SG	pron
+atū	you	pron
 atūn	above	adv
 bawūsk-	kiss-	v	Ar.
 bḥūdūd	around	prep	Ar.
@@ -10459,24 +10542,24 @@ xūdžūti	yesterday	adv
 àb-ūr-kàrà	for-2SG-BEN	Mac
 àb-ūs-kàrà	for-3SG-BEN	Mac
 àb-ūs-kàrà	for-3SG-BEN	Mac
--ū-m-tà	-SG-1SG.OBL-DAT
--ū-r-tà	-SG-2SG.OBL-DAT
--ū-s-tà	-SG-3SG.OBL-DAT
--ū-màn-tà	-SG-1PL.OBL-DAT
--ū-ràn-tà	-SG-2PL.OBL-DAT
--ū-sàn-tà	-SG-3PL.OBL-DAT
--ū-màn-ki	-SG-1PL.OBL-ABL
--ū-ràn-ki	-SG-2PL.OBL-ABL
--ū-sàn-ki	-SG-3PL.OBL-ABL
--ū-m-mà	-SG-1SG.OBL-LOC
--ū-r-mà	-SG-2SG.OBL-LOC
--ū-s-mà	-SG-3SG.OBL-LOC
--ū-màn-mà	-SG-1PL.OBL-LOC
--ū-ràn-mà	-SG-2PL.OBL-LOC
--ū-sàn-mà	-SG-3PL.OBL-LOC
--ū-m-kà	-SG-1SG.OBL-DAT
--ū-r-kà	-SG-2SG.OBL-DAT
--ū-s-kà	-SG-3SG.OBL-DAT
+-ū-m-tà	-SG-1SG-DAT
+-ū-r-tà	-SG-2SG-DAT
+-ū-s-tà	-SG-3SG-DAT
+-ū-màn-tà	-SG-1PL-DAT
+-ū-ràn-tà	-SG-2PL-DAT
+-ū-sàn-tà	-SG-3PL-DAT
+-ū-màn-ki	-SG-1PL-ABL
+-ū-ràn-ki	-SG-2PL-ABL
+-ū-sàn-ki	-SG-3PL-ABL
+-ū-m-mà	-SG-1SG-LOC
+-ū-r-mà	-SG-2SG-LOC
+-ū-s-mà	-SG-3SG-LOC
+-ū-màn-mà	-SG-1PL-LOC
+-ū-ràn-mà	-SG-2PL-LOC
+-ū-sàn-mà	-SG-3PL-LOC
+-ū-m-kà	-SG-1SG-DAT
+-ū-r-kà	-SG-2SG-DAT
+-ū-s-kà	-SG-3SG-DAT
 -ū-màn-kà	-SG-1PL.OBL-DAT
 -ū-ràn-kà	-SG-2PL.OBL-DAT
 -ū-sàn-kà	-SG-3PL.OBL-DAT
@@ -10489,12 +10572,12 @@ xūdžūti	yesterday	adv
 àb-ūm-kà	for-1SG-DAT	Mac
 àb-ūr-kà	for-2SG-DAT	Mac
 àb-ūs-kà	for-3SG-DAT	Mac
--ū-m-sàn	-SG-1SG.OBL-SOC
--ū-r-sàn	-SG-2SG.OBL-SOC
--ū-s-sàn	-SG-3SG.OBL-SOC
--ū-màn-sàn	-SG-1PL.OBL-SOC
--ū-ràn-sàn	-SG-2PL.OBL-SOC
--ū-sàn-sàn	-SG-3PL.OBL-SOC
+-ū-m-sàn	-SG-1SG-SOC
+-ū-r-sàn	-SG-2SG-SOC
+-ū-s-sàn	-SG-3SG-SOC
+-ū-màn-sàn	-SG-1PL-SOC
+-ū-ràn-sàn	-SG-2PL-SOC
+-ū-sàn-sàn	-SG-3PL-SOC
 -ū-màn	-SG-1PL
 -ū-ràn	-SG-2PL
 -ū-sàn	-SG-3PL
@@ -11035,7 +11118,7 @@ kūnnà	COP.1PL
 xàllī-kūm	leave/let-2PL
 àbū	Abu	n	Ar.
 àmbūlàns	ambulance	n	Ar.
-àtū	you.SG	pron
+àtū	you	pron
 àtūn	above	adv
 bàwūsk-	kiss-	v	Ar.
 bsūṭàhr-	be.happy-	v	Ar.
@@ -11073,14 +11156,14 @@ xūḍrà	vegetables	n	Ar.
 xūdwàr	child	n
 xūyà	God	n	Kurd.
 zhūràhr-	appear-	v	Ar.
--ur-ta	-2SG.OBL-DAT
--ur-ki	-2SG.OBL-ABL
--ur-ma	-2SG.OBL-LOC
--ur-ka	-2SG.OBL-DAT
--ur-ke	-2SG.OBL-BEN
--ur-kara	-2SG.OBL-BEN
--ur-san	-2SG.OBL-SOC
--ur	-2SG.OBL
+-ur-ta	-2SG-DAT
+-ur-ki	-2SG-ABL
+-ur-ma	-2SG-LOC
+-ur-ka	-2SG-DAT
+-ur-ke	-2SG-BEN
+-ur-kara	-2SG-BEN
+-ur-san	-2SG-SOC
+-ur	-2SG
 -am-ur	-1SG-2SG
 -ar-ur	-3SG-2SG
 -an-ur	-1PL-2SG
@@ -11436,9 +11519,8 @@ sakkur-	shut-	v	Ar.
 sakkurk-	shut-	v	Ar.
 suri	head	n
 ṣawwurk-	photograph-	v	Ar.
-šurd-	speak-	v
 šawādur	nylon.covers	n	Ar.
-šurd-	speak-	v
+šurd-	say-	v
 turd-	put-	v
 tursala	thursty	adj
 turd-	put-	v
@@ -11715,10 +11797,10 @@ fakkurhŭ-	think-	v	Ar.
 fikkurŭ-	think-	v	Ar.
 kŭmur	coal	n	Turk.
 džŭwur	woman	n
--ur-tà	-2SG.OBL-DAT
--ur-mà	-2SG.OBL-LOC
--ur-kà	-2SG.OBL-DAT
--ur-sàn	-2SG.OBL-SOC
+-ur-tà	-2SG-DAT
+-ur-mà	-2SG-LOC
+-ur-kà	-2SG-DAT
+-ur-sàn	-2SG-SOC
 -àm-ur	-1SG-2SG
 -àr-ur	-3SG-2SG
 -àn-ur	-1PL-2SG
@@ -12418,8 +12500,7 @@ derd-	cut-	v
 derd-	tear-	v
 mišterd-	kiss-	v
 qerd	monkey	n	Ar.
-šerd-	speak-	v
-šerd-	speak-	v
+šerd-	say-	v
 terd-	put-	v
 terd-	put-	v
 -erd-ōm	-PFV-1SG
